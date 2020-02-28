@@ -1,0 +1,37 @@
+<!--
+<ti:work xmls:ti="htpp://chs.harvard.edu/xmlns/cts"
+         groupUrn="urn:cts:mayanLit:lit001"
+         urn="urn:cts:mayanLit:lit001.pw001"
+         xml:lang="kic"
+ >
+  
+  <ti:title xml:lang="kic">Popol Wuj</ti:title>
+  
+  <ti:edition
+              workUrn="urn:cts:mayanLit:lit001.pw001"
+              urn="urn:cts:mayanLit:lit001.pw001.popolwuj-quc"
+  >
+    <ti:label xml:lang="eng">Popol Vuh</ti:label>
+    <ti:description xml:lang="eng">
+                         Edition of the Popol Wuj by Allen J Christenson, 2007
+     </ti:description>
+  </ti:edition>                         
+</ti:work>
+-->
+<?xml-model href="../../../capitains.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<collection
+  xmlns="http://purl.org/capitains/ns/1.0#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cts="http://chs.harvard.edu/xmlns/cts">
+  <identifier>urn:cts:mayanLit:lit001.pw001</identifier>
+  <parent>urn:cts:mayanLit:lit001</parent>
+  <dc:title xml:lang="eng">Popol Wuj</dc:title>
+  <members>
+    <collection readable="true" path="./lit001.pw001.popolwuj-quc.xml">
+      <identifier>urn:cts:mayanLit:lit001.pw001.popolwuj-quc</identifier>
+      <parent>urn:cts:mayanLit:lit001.pw001</parent>
+      <dc:title xml:lang="eng">Popol Wuj</dc:title>
+      <dc:language>myn</dc:language>
+    </collection>
+  </members>
+</collection>
