@@ -1,20 +1,12 @@
 
-<ti:work xmlns:ti="htpp://chs.harvard.edu/xmlns/cts"
-         groupUrn="urn:cts:mayanLit:lit001"
-         urn="urn:cts:mayanLit:lit001.pw001"
-         xml:lang="quc">
-  
+<ti:work xmlns:ti="htpp://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:mayanLit:lit001" urn="urn:cts:mayanLit:lit001.pw001" xml:lang="quc">
   <ti:title xml:lang="quc">Popol Wuj</ti:title>
-  
-  <ti:edition
-              workUrn="urn:cts:mayanLit:lit001.pw001"
-              urn="urn:cts:mayanLit:lit001.pw001.popolwuj-quc">
-           
+  <ti:edition workUrn="urn:cts:mayanLit:lit001.pw001" urn="urn:cts:mayanLit:lit001.pw001.popolwuj-quc">        
     <ti:label xml:lang="eng">Popol Vuh</ti:label>
     <ti:description xml:lang="eng">
-                         Edition of the Popol Wuj by Allen J Christenson, 2007
-     </ti:description>
-  </ti:edition>                         
+         Edition of the Popol Wuj by Allen J Christenson, 2007
+    </ti:description>
+   </ti:edition>                         
 </ti:work>
 
 <!--
