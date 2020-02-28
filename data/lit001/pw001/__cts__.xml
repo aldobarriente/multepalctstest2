@@ -1,13 +1,14 @@
 <ti:work xmls:ti="htpp://chs.harvard.edu/xmlns/cts"
          groupUrn="urn:cts:mayanLit:lit001"
-         urn="urn:cts:mayanLit:lit001:pw001"
+         urn="urn:cts:mayanLit:lit001.pw001"
          xml:lang="kic"
  >
   
   <ti:title xml:lang="kic">Popol Wuj</ti:title>
   
   <ti:edition
-              workUrn="urn:cts:mayanLit:lit001:pw001.popolwuj-quc"
+              workUrn="urn:cts:mayanLit:lit001.pw001"
+              urn="urn:cts:mayanLit:lit001.pw001.popolwuj-quc"
   >
     <ti:label xml:lang="eng">Popol Vuh</ti:label>
     <ti:description xml:lang="eng">
