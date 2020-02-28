@@ -14,6 +14,6 @@
   <identifier>urn:cts:mayanLit:lit001</identifier>
   <!-- And any other properties from there. The more the merrier -->
   <members>
-    <collection path="./pw001/__capitains__.xml" identifier="urn:cts:mayanLit:lit001.pw001"/>
+    <collection path="./pw001/__cts__.xml" identifier="urn:cts:mayanLit:lit001.pw001"/>
   </members
 </collection>
