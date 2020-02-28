@@ -1,4 +1,4 @@
-<!--
+
 <ti:work xmls:ti="htpp://chs.harvard.edu/xmlns/cts"
          groupUrn="urn:cts:mayanLit:lit001"
          urn="urn:cts:mayanLit:lit001.pw001"
@@ -17,8 +17,8 @@
      </ti:description>
   </ti:edition>                         
 </ti:work>
--->
 
+<!--
 <?xml-model href="../../../capitains.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <collection
   xmlns="http://purl.org/capitains/ns/1.0#"
@@ -36,3 +36,4 @@
     </collection>
   </members>
 </collection>
+-->
