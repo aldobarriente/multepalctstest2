@@ -12,7 +12,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <refsDecl n="capitains" xml:base="urn:cts:mayanLit:mul0001.pw001.popolwuj">
+            <refsDecl n="capitains" xml:base="urn:cts:mayanLit:mul0001.pw001.popolwuj-quc">
                 <cRefPattern corresp="2" n="linebreak"
                              matchPattern="(\w+).(\w+)"
                              replacementPattern="#xpath(/tei:TEI/tei:text/tei/body/tei:div/tei:div[@n='$1']\tei:div[@n='$2'])">
