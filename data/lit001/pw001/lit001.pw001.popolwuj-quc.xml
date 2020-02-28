@@ -41,8 +41,8 @@
         <body>
             <div type="edition" xml:lang="quc" n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc">
                 <div type="textpart" subtype="paragraph" n="1">
-                  <lb n="1" id="xom-f01-s1-quc-1"><hi rend="very-large">ARE V XE OHER</hi> </lb>
-                  <lb n="2" rend="hanging">Ꜩih varal Quiche vbi. </lb>
+                  <lb n="1" id="xom-f01-s1-quc-1"/><hi rend="very-large">ARE V XE OHER</hi>
+                  <lb n="2" rend="hanging"/>Ꜩih varal Quiche vbi.
                     <!-- </p> -->
                 </div>
                 <div type="textpart" subtype="paragraph" n="2">
@@ -104,7 +104,7 @@
                     <lb n="5" rend="center"/>lolinic, catolona puch v
                     <lb n="6" rend="center"/>pa cah.
                     <!-- </p> -->
-                </div>
+               </div>
                <div type="textpart" subtype="paragraph" n="4">
                     <!-- <p xml:id="p04"> -->
                     <lb n="7" rend="indent"/><hi rend="large">V</hi>ae cute nabe ꜩih nabe vch<pc> –</pc>
