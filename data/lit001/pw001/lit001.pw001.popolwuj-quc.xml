@@ -19,7 +19,7 @@
             <refsDecl n="capitains" xml:base="urn:cts:mayanLit:lit001.pw001.popolwuj-quc">
                 <cRefPattern corresp="2" n="line"
                              matchPattern="(\w+).(\w+)"
-                             replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+                             replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:lb[@n='$2'])">
                     <p>pointer pattern extracting paragraph and line</p>
                 </cRefPattern>
                 <cRefPattern corresp="1" n="paragraph"
@@ -27,10 +27,6 @@
                             replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
                 <p>pointer pattern extracting paragraph</p>
                 </cRefPattern>
-            </refsDecl>
-            <refsDecl>
-                <refState unit="line"/>
-                <refState unit="paragraph"/>
             </refsDecl>
         </encodingDesc>
         <profileDesc>
@@ -47,8 +43,8 @@
         <body>
             <div type="edition" xml:lang="quc" n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc">
                 <div type="textpart" subtype="paragraph" n="1">
-                    <lb n="1" id="xom-f01-s1-quc-1"/><hi rend="very-large">ARE V XE OHER</hi>
-                    <lb n="2" rend="hanging"/>Ꜩih varal Quiche vbi.
+                  <lb n="1" id="xom-f01-s1-quc-1"><hi rend="very-large">ARE V XE OHER</hi> </lb>
+                  <lb n="2" rend="hanging">Ꜩih varal Quiche vbi. </lb>
                     <!-- </p> -->
                 </div>
                 <div type="textpart" subtype="paragraph" n="2">
