@@ -13,19 +13,19 @@
         </fileDesc>
         <encodingDesc>
             <refsDecl n="capitains" xml:base="urn:cts:mayanLit:lit001.pw001.popolwuj-quc">
-                <cRefPattern corresp="2" n="linebreak"
+                <cRefPattern corresp="2" n="line"
                              matchPattern="(\w+).(\w+)"
-                             replacementPattern="#xpath(/tei:TEI/tei:text/tei/body/tei:div/tei:div[@n='$1']\tei:div[@n='$2'])">
+                             replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
                     <p>pointer pattern extracting paragraph and line</p>
                 </cRefPattern>
-                <cRefPatter corresp="1" n="paragraph"
+                <cRefPattern corresp="1" n="paragraph"
                             matchPattern="(\w+)"
-                            replacementPattern="#xpath(/tei:TEI/tei:text/tei/body/tei:div/tei:div[@n='$1'])">
+                            replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
                 <p>pointer pattern extracting paragraph</p>
-                </cRefPatter>
+                </cRefPattern>
             </refsDecl>
             <refsDecl>
-                <refState unit="linebreak"/>
+                <refState unit="line"/>
                 <refState unit="paragraph"/>
             </refsDecl>
         </encodingDesc>
