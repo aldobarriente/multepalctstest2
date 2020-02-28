@@ -1,6 +1,6 @@
 language: python
 python:
-- '3.5'
+- '3.6'
 install:
 - pip3 install HookTest
 script:  hooktest --console --scheme epidoc --workers 3 --verbose 5 --manifest --countword --allowfailure ./
