@@ -1,6 +1,6 @@
 language: python
 python:
-- '3.6'
+- '3.5'
 install:
 - pip3 install HookTest
 script:  hooktest --console --scheme auto --workers 3 --verbose 5 --manifest --countword --allowfailure ./
