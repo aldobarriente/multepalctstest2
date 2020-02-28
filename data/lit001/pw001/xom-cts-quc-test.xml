@@ -1,0 +1,598 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Popol Wuj</title>
+                <scribe>Francisco de Ximenez</scribe>
+                <author>Anonymous K'iche' authors</author>
+            </titleStmt>
+            <sourceDesc default="false">
+                <bibl default="false">
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <refsDecl n="capitains" xml:base="urn:cts:mayanLit:mul0001.pw001.popolwuj">
+                <cRefPattern corresp="2" n="linebreak"
+                             matchPattern="(\w+).(\w+)"
+                             replacementPattern="#xpath(/tei:TEI/tei:text/tei/body/tei:div/tei:div[@n='$1']\tei:div[@n='$2'])">
+                    <p>pointer pattern extracting paragraph and line</p>
+                </cRefPattern>
+                <cRefPatter corresp="1" n="paragraph"
+                            matchPattern="(\w+)"
+                            replacementPattern="#xpath(/tei:TEI/tei:text/tei/body/tei:div/tei:div[@n='$1'])">
+                <p>pointer pattern extracting paragraph</p>
+                </cRefPatter>
+            </refsDecl>
+            <refsDecl>
+                <refState unit="linebreak"/>
+                <refState unit="paragraph"/>
+            </refsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage default="false">
+                <language ident="eng">English</language>
+                <language ident="spa">Spanish</language>
+                <language ident="quc">K'iche'</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc"
+    
+        xml:id="MS1515v2" n="1515.2">
+        <body>
+            <div type="edition" xml:lang="quc" n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc">
+                <div type="textpart" subtype="paragraph" n="1">
+                    <!-- <pb xml:id="xom-f01-s1"/> -->
+                    <note place="margin-left" type="chapter-heading" anchored="true">
+                    cap.
+                    <lb />1.del serde  <note resp="editor">Could have a cross followed by 'sexde' </note>
+                    <lb /><rs ana="DIOS">Díos</rs>
+                    </note>
+                    <lb n="1" id="xom-f01-s1-quc-1"/><hi rend="very-large">ARE V XE OHER</hi>
+                    <lb n="2" rend="hanging"/>Ꜩih varal Quiche vbi.
+                    <!-- </p> -->
+                </div>
+                <div type="textpart" subtype="paragraph" n="2">
+                    <!-- <p xml:id="p02"> -->
+                    <lb n="3" rend="indent"/><hi rend="large">V</hi>aral xchicaꜩibah vi xchica<pc> –</pc>
+                    <note place="margin-left" anchored="true"><num rend="large">1.</num></note>
+                    <lb n="4" id="xom-f01-s1-quc-4"/>tiquiba vi oher ꜩih, vticaribal,
+                    <lb n="5" id="xom-f01-s1-quc-5"/>vxenabal puch ronohel xban,
+                    <lb n="6" id="xom-f01-s1-quc-6"/>pa <rs ana="TINAMIT_KICHE" type="toponym">tinamit quiche</rs>, ramac qui<pc> –</pc>
+                    <lb n="7" id="xom-f01-s1-quc-7"/>che vinac; arecut xchicacam
+                    <lb n="8" id="xom-f01-s1-quc-8"/>vi vcutunizaxic, vcalahobiza<pc> –</pc>
+                    <lb n="9" id="xom-f01-s1-quc-9"/>xic, vꜩihoxic puch euaxibal
+                    <lb n="10" id="xom-f01-s1-quc-10"/>zaquiribal rumal <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs>
+                    <lb n="11" id="xom-f01-s1-quc-11"/><rs ana="ALOM">alom</rs>, <rs ana="KAJOLOM">qaholom</rs> quibi <rs ana="JUNAJPU_WUCH">hun ah<pc> –</pc>
+                    <lb n="12" id="xom-f01-s1-quc-12"/>pu vuch</rs>, <rs ana="JUNAJPU_UTIW">hun ahpu vtiu</rs>, <rs ana="SAQI_NIM_AQ_SIS">za<pc> –</pc>
+                    <lb n="13" id="xom-f01-s1-quc-13"/>quinimac ꜩÿz</rs>, <rs ana="TEPEW_QUKUMATZ">tepeu, qucumaꜩ</rs>
+                    <lb n="14" id="xom-f01-s1-quc-14"/><rs ana="CORAZÓN_DEL_LAGO">vqux cho</rs>, <rs ana="CORAZÓN_DEL_MAR">vqux palo</rs>, <rs ana="LOS_DE_LA_SUPERFICIE_PLANA">ah ra<pc> –</pc>
+                    <lb n="15" id="xom-f01-s1-quc-15"/>xalaꜫ</rs>, <rs ana="LOS_DE_LA_BÓVEDA_AZUL">ah raxaꜩel chu qha<pc> –</pc>
+                    <lb n="16" id="xom-f01-s1-quc-16"/>xic</rs>, rachbixic, rachꜩihoxic
+                    <lb n="17" id="xom-f01-s1-quc-17"/>rÿ <rs ana="IXMUKANE">iyom</rs>, <rs ana="XPIYAKOK">mamom</rs> <rs ana="XPIYAKOK">xpiyacoc</rs>,
+                    <lb n="18" id="xom-f01-s1-quc-18"/><rs ana="IXMUKANE">xmucane</rs> vbi, <rs ana="IXMUKANE">maꜩanel</rs> <rs ana="XPIYAKOK">chu<pc> –</pc>
+                    <lb n="19" id="xom-f01-s1-quc-19"/>quenel</rs> <rs ana="IXMUKANE">camul yiom</rs>, <rs ana="XPIYAKOK">camul
+                    <lb n="20" id="xom-f01-s1-quc-20"/>mamom</rs> chuqhaxic pa quiche
+                    <note place="margin-left" anchored="true"><num rend="large">2</num></note>
+                    <lb n="21" id="xom-f01-s1-quc-21"/>ꜩih. ta xquiꜩihoh ronohel
+                    <lb n="22" id="xom-f01-s1-quc-22"/>ruq xquiban chic chizaquil
+                    <lb n="23" id="xom-f01-s1-quc-23"/>qolem, zaquil ꜩih vae xchi<pc> –</pc>
+                    <lb n="24" id="xom-f01-s1-quc-24"/>caꜩibah chupan chic vqha<pc> –</pc>
+                    <lb n="25" id="xom-f01-s1-quc-25"/>bal <rs ana="DIOS">Dios</rs> pa christianoil chic
+                    <lb n="26" id="xom-f01-s1-quc-26"/>xchiquelezah rumal maha<pc> –</pc>
+                    <lb n="27" id="xom-f01-s1-quc-27"/>bi chic ilbal re popo vvh. il<pc> –</pc>
+                    <lb n="28" id="xom-f01-s1-quc-28"/>bal zac petenac chaca palo.
+                    <lb n="29" id="xom-f01-s1-quc-29"/>vꜩihoxic camuhibal ilbal zac<pc> –</pc>
+                    <lb n="30" id="xom-f01-s1-quc-30"/>qazlem chuqhaxic. qo nabe
+                    <lb n="31" id="xom-f01-s1-quc-31"/>vuhil, oher ꜩibam puch xa
+                    <lb n="32" id="xom-f01-s1-quc-32"/>eval vvach ilol re, bizol re,
+                    <lb n="33" id="xom-f01-s1-quc-33"/>nim vpeoxic, vꜩihoxic puch,
+                    <lb n="34" id="xom-f01-s1-quc-34"/>ta chiquiz ꜩuk ronohel cah
+                    <note place="margin-left" anchored="true"><num rend="large">3.</num><lb />prover.<lb />Cap. 8.</note>
+                    <lb n="35" id="xom-f01-s1-quc-35"/>vleu, vcah ꜩucuxic, vcah
+                    <lb n="36" id="xom-f01-s1-quc-36"/>xucutaxic retaxic, vcah
+                    <lb n="37" id="xom-f01-s1-quc-37"/>cheexic, vmeh camaxic, vyuc<pc> –</pc>
+                    <lb n="38" id="xom-f01-s1-quc-38"/>camaxic vpa cah, vpa vleu
+                    <lb n="39" id="xom-f01-s1-quc-39"/>cah ꜩuc, cah xu cut chuqha<pc> –</pc>
+                    <lb n="40" id="xom-f01-s1-quc-40"/>xic rumal ri <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs>
+                    <lb n="41" id="xom-f01-s1-quc-41"/><rs ana="TZAQOL">vchuch</rs>, <rs ana="BITOL">vcahau</rs> qazlem vi<pc> –</pc>
+                    <lb n="42" id="xom-f01-s1-quc-42"/>naquirem, abanel, quxla<pc> –</pc>
+                    <lb n="43" id="xom-f01-s1-quc-43"/>nel, alay rech, quxlaay
+                    <lb n="44" id="xom-f01-s1-quc-44"/>rech zaquil amaquil, za<pc> –</pc>
+                    <lb n="45" id="xom-f01-s1-quc-45"/>quil al, zaquil qahol, ah<pc> –</pc>
+                    <lb n="46" id="xom-f01-s1-quc-46"/>biz, ahnaoh chirech ronohel
+                    <!-- <pb xml:id="xom-f01-s2" /> -->
+                    <lb n="1" id="xom-f01-s1-quc-1"/>ato qol vi cah vleu cho palo
+                    <lb />
+                    <!-- </p> -->
+                </div>
+                <div type="textpart" subtype="paragraph" n="3">
+                    <!-- <p xml:id="p03"> -->
+                    <lb n="2" rend="center"/><hi rend="large">ARE V ꜨIHOXIC VAE</hi>
+                    <lb n="3" rend="center"/>Cacaꜩinin oc, caca chamam oc
+                    <lb n="4" rend="center"/>caꜩinonic cacazilanic, caca
+                    <lb n="5" rend="center"/>lolinic, catolona puch v
+                    <lb n="6" rend="center"/>pa cah.
+                    <!-- </p> -->
+                </div>
+               <div type="textpart" subtype="paragraph" n="4">
+                    <!-- <p xml:id="p04"> -->
+                    <lb n="7" rend="indent"/><hi rend="large">V</hi>ae cute nabe ꜩih nabe vch<pc> –</pc>
+                    <lb n="8" id="xom-f01-s1-quc-8"/>an. mahabi oꜫ hun vinac, hun
+                    <lb n="9" id="xom-f01-s1-quc-9"/>chicop, ꜩiquin, car, tap, che
+                    <lb n="10" id="xom-f01-s1-quc-10"/>abah, hul, zivan, quim, qui<pc> –</pc>
+                    <lb n="11" id="xom-f01-s1-quc-11"/>chelah; xa v tu quel cah qolic.
+                    <lb n="12" id="xom-f01-s1-quc-12"/>maui calah v vach vleu; xa
+                    <lb n="13" id="xom-f01-s1-quc-13"/>vtuquel remanic palo vpa<pc> –</pc>
+                    <lb n="14" id="xom-f01-s1-quc-14"/>cah, ronohel, mahabi na quila
+                    <lb n="15" id="xom-f01-s1-quc-15"/>camolobic, cacoꜩobic, hun ta
+                    <lb n="16" id="xom-f01-s1-quc-16"/>cazilobic camal cabantah, ca
+                    <lb n="17" id="xom-f01-s1-quc-17"/>coꜩ cabantah pa cah. xma qo
+                    <lb n="18" id="xom-f01-s1-quc-18"/>vinaquila qolic, yacalic; xa
+                    <lb n="19" id="xom-f01-s1-quc-19"/>remanic ha, xa lianic palo, xa
+                    <lb n="20" id="xom-f01-s1-quc-20"/>vtuquel remanic, xma qo vi na
+                    <lb n="21" id="xom-f01-s1-quc-21"/>quilalo qolic; xa cachamanic
+                    <lb n="22" id="xom-f01-s1-quc-22"/>caꜩininic chi queꜫum, chi aꜫab,
+                    <lb n="23" id="xom-f01-s1-quc-23"/>xa vtuquel ri <rs ana="TZAQOL">ꜩacol</rs>, <rs ana="BITOL">bitol</rs>, <rs ana="TEPEW_QUKUMATZ">te<pc> –</pc>
+                    <lb n="24" id="xom-f01-s1-quc-24"/>peu, gucumaꜩ</rs> e <rs ana="ALOM">alom</rs>, e <rs ana="KAJOLOM">qaho<pc> –</pc>
+                    <lb n="25" id="xom-f01-s1-quc-25"/>lom</rs> qo pa ha zactetoh e qovi
+                    <lb n="26" id="xom-f01-s1-quc-26"/>e mucutal pa cuc, pa raxon
+                    <lb n="27" id="xom-f01-s1-quc-27"/>are vbinaam viri <rs ana="QUKUMATZ">gucumaꜩ</rs>
+                    <lb n="28" id="xom-f01-s1-quc-28"/>e nimac etamanel, e nimac ah<pc> –</pc>
+                    <lb n="29" id="xom-f01-s1-quc-29"/>naoh chiqui qoheic; quehe
+                    <lb n="30" id="xom-f01-s1-quc-30"/>cut xax qo vi ri cah qonaipu<pc> –</pc>
+                    <lb n="31" id="xom-f01-s1-quc-31"/>ch <rs ana="UKUX_KAJ">vqux cah</rs> are vbi ri ca<pc> –</pc>
+                    <lb n="32" id="xom-f01-s1-quc-32"/>bauil chuqhaxic.
+                    <!-- </p> -->
+                </div>
+                <div type="textpart" subtype="paragraph" n="5">
+                    <!-- <p xml:id="p05"> -->
+                    <lb n="33" rend="indent"/><hi rend="large">T</hi>a xpe cut vꜩih varal xul
+                    <lb n="34" id="xom-f01-s1-quc-34"/>cuq ri <rs ana="TEPEW_QUKUMATZ">tepeu gucumaꜩ</rs> varal
+                    <lb n="35" id="xom-f01-s1-quc-35"/>chi quecumal chi aꜫabal xqh<pc> –</pc>
+                    <lb n="36" id="xom-f01-s1-quc-36"/>au ruq ri <rs ana="TEPEW_QUKUMATZ">tepeu gucumaꜩ</rs>, xe
+                    <lb n="37" id="xom-f01-s1-quc-37"/>qha cut, ta xenaohinic, ta xe
+                    <lb n="38" id="xom-f01-s1-quc-38"/>bizonic, xerico quib, xquicuch
+                    <lb n="39" id="xom-f01-s1-quc-39"/>qui ꜩih, qui naoh, ta xcalah
+                    <lb n="40" id="xom-f01-s1-quc-40"/>ta xquiquxlaah quib .<unclear reason="illegible" instant="false">+</unclear> zac ta<add place="above" instant="false" status="unremarkable">xevi</add>
+                    <lb n="41" id="xom-f01-s1-quc-41"/>xcalah puch vinac, ta xqui<pc> –</pc>
+                    <lb n="42" id="xom-f01-s1-quc-42"/>naohih v ꜩuquic v vinaqui<pc> –</pc>
+                    <lb n="43" id="xom-f01-s1-quc-43"/>ric che, caam, v ꜩucuquic pu<pc> –</pc>
+                    <lb n="44" id="xom-f01-s1-quc-44"/>ch qazlem vinaquirem chi
+                    <lb n="45" id="xom-f01-s1-quc-45"/>queꜫumal, chi aꜫabal, rumal
+                    <lb n="46" id="xom-f01-s1-quc-46"/>ri <rs ana="UKUX_KAJ">vqux cah huracan</rs> vbi,
+                    <!-- <pb xml:id="xom-f02-s1"/> -->
+                    <lb n="1" id="xom-f02-s1-quc-1"/><rs ana="KAQUILJA_JUN_RAQAN">caculha huracan</rs> nabe, vcab
+                    <lb n="2" id="xom-f02-s1-quc-2"/>cut <rs ana="CHIPI_KAQULJA">chipa caculha</rs>, roxchic
+                    <lb n="3" id="xom-f02-s1-quc-3"/><rs ana="RAXA_KAQULJA">raxa caculha</rs> chi e cu oxib
+                    <lb n="4" id="xom-f02-s1-quc-4"/>rÿ <rs ana="UKUX_KAJ">vqux cah</rs> ta xeul cuq ri
+                    <lb n="5" id="xom-f02-s1-quc-5"/><rs ana="TEPEW_QUKUMATZ">tepeu gucumaꜩ</rs>, ta xnaohi<pc> –</pc>
+                    <lb n="6" id="xom-f02-s1-quc-6"/>xic zac qazlem, hupacha ta cha
+                    <lb n="7" id="xom-f02-s1-quc-7"/>uaxoc ta caquiro puch, apa<pc> –</pc>
+                    <lb n="8" id="xom-f02-s1-quc-8"/>chinac ꜩucul cool ta chuxoc
+                    <lb n="9" id="xom-f02-s1-quc-9"/>quixnohintah. areri ha chel
+                    <lb n="10" id="xom-f02-s1-quc-10"/>tah chihamatah, chivinaquir
+                    <lb n="11" id="xom-f02-s1-quc-11"/>va vleu vlaquel ta curib cha<pc> –</pc>
+                    <lb n="12" id="xom-f02-s1-quc-12"/>ta cut, ta chauaxoc ta zaquiroc,
+                    <lb n="13" id="xom-f02-s1-quc-13"/>cah vleu, ma ta cut v quihila<pc> –</pc>
+                    <lb n="14" id="xom-f02-s1-quc-14"/>bal vcalaibal rÿ caꜩac ca<pc> –</pc>
+                    <lb n="15" id="xom-f02-s1-quc-15"/>bit ta vinaquiroc vinac ꜩac
+                    <lb n="16" id="xom-f02-s1-quc-16"/>vinac bit xeqha cut ta xvi<pc> –</pc>
+                    <lb n="17" id="xom-f02-s1-quc-17"/>naquir cu ri vleu cumal; xa<pc> –</pc>
+                    <lb n="18" id="xom-f02-s1-quc-18"/>quiꜩih xqohe vi v vinaqui<pc> –</pc>
+                    <lb n="19" id="xom-f02-s1-quc-19"/>ric chivinaquir vleu, vleuh
+                    <lb n="20" id="xom-f02-s1-quc-20"/>xecha libah chi xvinaquiric;
+                    <lb n="21" id="xom-f02-s1-quc-21"/>queheri xa ꜩuꜩ xa mayui v
+                    <lb n="22" id="xom-f02-s1-quc-22"/>vinaquiric chic u pupuheic
+                    <lb n="23" id="xom-f02-s1-quc-23"/>ta xtape pa ha ri huiub hu<pc> –</pc>
+                    <lb n="24" id="xom-f02-s1-quc-24"/>zuc nimac huyub xuxic xa<pc> –</pc>
+                    <lb n="25" id="xom-f02-s1-quc-25"/>qui naual xa qui puz xbana<pc> –</pc>
+                    <lb n="26" id="xom-f02-s1-quc-26"/>tah vi vnaohixic huyub ta<pc> –</pc>
+                    <lb n="27" id="xom-f02-s1-quc-27"/>cah, huzuc rach vinaquiric
+                    <lb n="28" id="xom-f02-s1-quc-28"/>v quizizil, v pachahil v vach.
+                    <lb n="29" id="xom-f02-s1-quc-29"/>quehe cut xquicot vi ri <rs ana="QUKUMATZ">qu<pc> –</pc>
+                    <lb n="30" id="xom-f02-s1-quc-30"/>cumaꜩ</rs>, vꜩ mi xatulic at <rs ana="UKUX_KAJ">vqux
+                    <lb n="31" id="xom-f02-s1-quc-31"/>cah</rs>, at <rs ana="UKUX_KAJ">huracan</rs>, at pu <rs ana="CHIPI_KAQULJA">chipi<pc> –</pc>
+                    <lb n="32" id="xom-f02-s1-quc-32"/>caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>, xchu<pc> –</pc>
+                    <lb n="33" id="xom-f02-s1-quc-33"/>ꜩinic caꜩac cabit xeqha cut.
+                    <lb n="34" id="xom-f02-s1-quc-34"/>nabe cut xvinaquir vleuh
+                    <lb n="35" id="xom-f02-s1-quc-35"/>huyub tacah, xchobochox vbe
+                    <lb n="36" id="xom-f02-s1-quc-36"/>ha xbiniheic colehe racan
+                    <lb n="37" id="xom-f02-s1-quc-37"/>xol tac huyub, xa chobol chic
+                    <lb n="38" id="xom-f02-s1-quc-38"/>xeqohe vi ha, ta xcutunihe<pc> –</pc>
+                    <lb n="39" id="xom-f02-s1-quc-39"/>ic nimac huyub. quehe cut
+                    <lb n="40" id="xom-f02-s1-quc-40"/>v vinaquiric vlew ri ta xvi<pc> –</pc>
+                    <lb n="41" id="xom-f02-s1-quc-41"/>naquiric cumal ri <rs ana="UKUX_KAJ">vqu x cah</rs>
+                    <lb n="42" id="xom-f02-s1-quc-42"/><rs ana="UKUX_ULEW">vqux vleu</rs> quevchaxic rÿ
+                    <lb n="43" id="xom-f02-s1-quc-43"/>cute nabe xquinohih xcolo
+                    <lb n="44" id="xom-f02-s1-quc-44"/>vi ri cah, xcolo nai puch v<pc> –</pc>
+                    <lb n="45" id="xom-f02-s1-quc-45"/>leuh chupan ha. quehe cut
+                    <lb n="46" id="xom-f02-s1-quc-46"/>vnaohixic ri ta xquinohih ta
+                    <lb n="47" id="xom-f02-s1-quc-47"/>xquibizoh ruꜩinic vbana
+                    <!-- <pb xml:id="xom-f02-s2"/> -->
+                    <lb n="1" id="xom-f02-s2-quc-1"/>tahic cumal.
+                    <!-- </p> -->
+                </div>
+                <div type="textpart" subtype="paragraph" n="6">
+                    <!-- <p xml:id="p06"> -->
+                    <note><num>2</num></note>
+                    <lb n="2" rend="indent"/><hi rend="large">T</hi>a xquinohih chic vchicop<pc> –</pc>
+                    <lb n="3" id="xom-f02-s2-quc-3"/>il huyub chahal re quichelah
+                    <lb n="4" id="xom-f02-s2-quc-4"/>ronohel, vvinaquil huyub ri
+                    <lb n="5" id="xom-f02-s2-quc-5"/>quieh, ꜩiquin, qoh, balam, cu<pc> –</pc>
+                    <lb n="6" id="xom-f02-s2-quc-6"/>maꜩ, zochoh, canti chahal ca<pc> –</pc>
+                    <lb n="7" id="xom-f02-s2-quc-7"/>am cacha ri <rs ana="ALOM">alom</rs>, <rs ana="KAJOLOM">qaholom</rs>
+                    <lb n="8" id="xom-f02-s2-quc-8"/>xa pa chilolinic, maxa on chi<pc> –</pc>
+                    <lb n="9" id="xom-f02-s2-quc-9"/>ꜩininic vxeche, caam, cate vꜩ
+                    <lb n="10" id="xom-f02-s2-quc-10"/>chiqohe chahal re xeqha cut
+                    <lb n="11" id="xom-f02-s2-quc-11"/>ta xquinohih, xqhiꜩihoh puch
+                    <lb n="12" id="xom-f02-s2-quc-12"/>huzu cu xvinaquir queh ꜩiquin
+                    <lb n="13" id="xom-f02-s2-quc-13"/>ta zquizipah cut rochoch qu<pc> –</pc>
+                    <lb n="14" id="xom-f02-s2-quc-14"/>eh ꜩiquin. at queh pa beyaa
+                    <lb n="15" id="xom-f02-s2-quc-15"/>pa zivan catvar vi, varal cat
+                    <lb n="16" id="xom-f02-s2-quc-16"/>qohe vi pa quim pa zacul, pa
+                    <lb n="17" id="xom-f02-s2-quc-17"/>quechelah, quipoco vi ivib, ca<pc> –</pc>
+                    <lb n="18" id="xom-f02-s2-quc-18"/>hcah ibinibal, ychacabal chu<pc> –</pc>
+                    <lb n="19" id="xom-f02-s2-quc-19"/>xic xevqhaxic ta xquichic cut
+                    <lb n="20" id="xom-f02-s2-quc-20"/>cochoch chuti ꜩiquin, nima
+                    <lb n="21" id="xom-f02-s2-quc-21"/>ꜩiquin. ixix ꜩiquin chuvi
+                    <lb n="22" id="xom-f02-s2-quc-22"/>che, chuvi caam quixochoch<pc> –</pc>
+                    <lb n="23" id="xom-f02-s2-quc-23"/>in vi, quixhain vi, chiri quix<pc> –</pc>
+                    <lb n="24" id="xom-f02-s2-quc-24"/>poc vi, quixquiritah vi chu e<pc> –</pc>
+                    <lb n="25" id="xom-f02-s2-quc-25"/>ab che, chueab caam xevqh<pc> –</pc>
+                    <lb n="26" id="xom-f02-s2-quc-26"/>axic quieh ꜩiquin taxquiba<pc> –</pc>
+                    <lb n="27" id="xom-f02-s2-quc-27"/>no quibanoh ronohel xuca<pc> –</pc>
+                    <lb n="28" id="xom-f02-s2-quc-28"/>mo v varabal, v yacalibal
+                    <lb n="29" id="xom-f02-s2-quc-29"/>quehe cut cochoch vi chicop
+                    <lb n="30" id="xom-f02-s2-quc-30"/>ri vleu xuyao <rs ana="ALOM">alom</rs>, <rs ana="KAJOLOM">qaho<pc> –</pc>
+                    <lb n="31" id="xom-f02-s2-quc-31"/>lom</rs>. xuꜩininaca chic ronohel
+                    <lb n="32" id="xom-f02-s2-quc-32"/>ri queh ꜩiquin
+                    <!-- </p> -->
+                </div>
+                <div type="textpart" subtype="paragraph" n="7">
+                    <!-- <p xml:id="p07"> -->
+                    <lb n="33" rend="indent"/><hi rend="large">T</hi>a xevqhax chicut rÿ queh
+                    <lb n="34" id="xom-f02-s2-quc-34"/>ꜩiquin rumal <rs ana="TZACOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs> <rs ana="ALOM">a<pc> –</pc>
+                    <lb n="35" id="xom-f02-s2-quc-35"/>lom</rs>, <rs ana="KAJOLOM">qaholom</rs>: quixqhauoc ,
+                    <lb n="36" id="xom-f02-s2-quc-36"/>quixziquinoc mi xyonoliqui<pc> –</pc>
+                    <lb n="37" id="xom-f02-s2-quc-37"/>nic, mixziquinic, quixqha va he
+                    <lb n="38" id="xom-f02-s2-quc-38"/>tah chi huhunal, chu hutac chobil
+                    <lb n="39" id="xom-f02-s2-quc-39"/>chi hutac molahil, xevqhaxic
+                    <lb n="40" id="xom-f02-s2-quc-40"/>ri queh ꜩiquin qoh, balam
+                    <lb n="41" id="xom-f02-s2-quc-41"/>cumaꜩ, chibÿhnacut ri ca bi
+                    <lb n="42" id="xom-f02-s2-quc-42"/>cohicaharizah, oh <rs ana="ALOM">ichuch</rs>, oh
+                    <lb n="43" id="xom-f02-s2-quc-43"/><rs ana="KAJOLOM">icahau</rs> quiqha va na cut, <rs ana="UKUX_KAJ">hu<pc> –</pc>
+                    <lb n="44" id="xom-f02-s2-quc-44"/>racan</rs>, <rs ana="CHIPI_KAQULJA">chipi caculha</rs>, <rs ana="RAXA_KAQULJA">raxa
+                    <lb n="45" id="xom-f02-s2-quc-45"/>caculha</rs>, <rs ana="UKUX_KAJ">vqux cah</rs>, <rs ana="UKUX_ULEW">vquxvle<pc> –</pc>
+                    <lb n="46" id="xom-f02-s2-quc-46"/>uh</rs>, <rs ana="TZAQOL">ꜩacol</rs>, <rs ana="BITOL">bitol</rs>, <rs ana="ALOM">alom</rs> <rs ana="KAJOLOM">qaholõ</rs>
+                    <!-- <pb xml:id="xom-f03-s1"/> -->
+                    <lb n="1" id="xom-f03-s1-quc-1"/>quixqhaoc cohiziquih, cohiqui<pc> –</pc>
+                    <lb n="2" id="xom-f03-s1-quc-2"/>hila, xevqhaxic. macu xuꜩinic
+                    <lb n="3" id="xom-f03-s1-quc-3"/>xeqhauic, queheta ri vinac, xa
+                    <lb n="4" id="xom-f03-s1-quc-4"/>quevachelahic, xa quecaralahic
+                    <lb n="5" id="xom-f03-s1-quc-5"/>xa quevohonic; mavi xvachinic
+                    <lb n="6" id="xom-f03-s1-quc-6"/>v vach qui qhabal, halahoh xco<pc> –</pc>
+                    <lb n="7" id="xom-f03-s1-quc-7"/>quibeh chi qui huhunal. ta xqui
+                    <lb n="8" id="xom-f03-s1-quc-8"/>ta ri <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs> maui mi xu<pc> –</pc>
+                    <lb n="9" id="xom-f03-s1-quc-9"/>ꜩinic, mi xeqhauic, xeqha chic
+                    <lb n="10" id="xom-f03-s1-quc-10"/>qui bil quib maui mixuꜩin v
+                    <add place="margin-left" instant="false" status="unremarkable">chi</add>
+                    <lb n="11" id="xom-f03-s1-quc-11"/>bixic cabi rumal oh cah ꜩac
+                    <lb n="12" id="xom-f03-s1-quc-12"/>oh pu cah bit mavi vꜩ xqha
+                    <lb n="13" id="xom-f03-s1-quc-13"/>chic chiquibil quib ri <rs ana="ALOM">alom</rs> <rs ana="QAHOLOM">qa<pc> –</pc>
+                    <lb n="14" id="xom-f03-s1-quc-14"/>holom</rs>, xevqhax cut xa
+                    <lb n="15" id="xom-f03-s1-quc-15"/>quixhalatahic rumal maui
+                    <lb n="16" id="xom-f03-s1-quc-16"/>mi xuꜩinic maui mi xixqha<pc> –</pc>
+                    <lb n="17" id="xom-f03-s1-quc-17"/>vic, mi cu xcahal caꜩih iv<pc> –</pc>
+                    <lb n="18" id="xom-f03-s1-quc-18"/>echa i cuxun, ivarabal i ia<pc> –</pc>
+                    <lb n="19" id="xom-f03-s1-quc-19"/>calibal xivech vi mixeuxic
+                    <lb n="20" id="xom-f03-s1-quc-20"/>zivan quechelah rumal ma<pc> –</pc>
+                    <lb n="21" id="xom-f03-s1-quc-21"/>vi xuꜩin caquihiloxic mavi
+                    <lb n="22" id="xom-f03-s1-quc-22"/>ix ziquÿ que ca qo couilo qui<pc> –</pc>
+                    <lb n="23" id="xom-f03-s1-quc-23"/>hilonel nimanel chi caban chic
+                    <lb n="24" id="xom-f03-s1-quc-24"/>xa chicam i patan <add instant="false" status="unremarkable">y</add> xa i tiohil
+                    <lb n="25" id="xom-f03-s1-quc-25"/>chica chic ta chuxoc. are cut
+                    <lb n="26" id="xom-f03-s1-quc-26"/>chipatanih, xevqhaxic ta xe
+                    <lb n="27" id="xom-f03-s1-quc-27"/>pixabaxic chuti chicop nima
+                    <lb n="28" id="xom-f03-s1-quc-28"/>chicop qo chuvach vleu. ta
+                    <lb n="29" id="xom-f03-s1-quc-29"/>xrah cu quitih chic qui quih
+                    <lb n="30" id="xom-f03-s1-quc-30"/>xrah quitihtobeh chic, xrah
+                    <lb n="31" id="xom-f03-s1-quc-31"/>pu quinuc chic quihilabal
+                    <lb n="32" id="xom-f03-s1-quc-32"/>xma xquita vi qui qhabal
+                    <lb n="33" id="xom-f03-s1-quc-33"/>chiquibil quib. xma xnaua<pc> –</pc>
+                    <lb n="34" id="xom-f03-s1-quc-34"/>chir vi cut, xma xbanatahvi
+                    <lb n="35" id="xom-f03-s1-quc-35"/>puch, quehe cut xechacatah
+                    <lb n="36" id="xom-f03-s1-quc-36"/>vi quitiohil, xquipatanih xe
+                    <lb n="37" id="xom-f03-s1-quc-37"/>tÿc, xecamizaxic, ri chicop qo
+                    <lb n="38" id="xom-f03-s1-quc-38"/>varal chuvach vleuh, que
+                    <lb n="39" id="xom-f03-s1-quc-39"/>he cut v tihtobexic chic vinac
+                    <lb n="40" id="xom-f03-s1-quc-40"/>ꜩac vinac bit cumal <rs ana="TZAQOL">ꜩacol</rs>
+                    <lb n="41" id="xom-f03-s1-quc-41"/><rs ana="BITOL">bitol</rs> <rs ana="ALOM">alom</rs>, <rs ana="KAJOLOM">qaholom</rs> xa ca
+                    <lb n="42" id="xom-f03-s1-quc-42"/>tiha chic, mi xyopih ravaxic
+                    <lb n="43" id="xom-f03-s1-quc-43"/>v zaquiric cabana ꜩucul que
+                    <lb n="44" id="xom-f03-s1-quc-44"/>cool que hupacha ta coh
+                    <lb n="45" id="xom-f03-s1-quc-45"/>ziquixoc, ta cohnabax puch
+                    <lb n="46" id="xom-f03-s1-quc-46"/>chuvach vleuh. mi xcatiho
+                    <lb n="47" id="xom-f03-s1-quc-47"/>chirech rinabe ca ꜩac, ca
+                    <!-- <pb xml:id="xom-f03-s2"/> -->
+                    <lb n="1" id="xom-f03-s2-quc-1"/>bit maui mi xuꜩinic ca quihilo<pc> –</pc>
+                    <lb n="2" id="xom-f03-s2-quc-2"/>xic, ca calaixic puch cumal, que<pc> –</pc>
+                    <lb n="3" id="xom-f03-s2-quc-3"/>he cut catiha vi vbanic ah nim
+                    <lb n="4" id="xom-f03-s2-quc-4"/>ah xob ꜩucul, cool xeqha ta v<pc> –</pc>
+                    <lb n="5" id="xom-f03-s2-quc-5"/>ꜩaquic cut vbanic puch, vle<pc> –</pc>
+                    <lb n="6" id="xom-f03-s2-quc-6"/>v xocol vtiohil xquibano ma
+                    <lb n="7" id="xom-f03-s2-quc-7"/>cu vꜩ xquilo, xa chiyohoma<pc> –</pc>
+                    <lb n="8" id="xom-f03-s2-quc-8"/>nic, xa ꜩubulic, xa nebelic, xa
+                    <lb n="9" id="xom-f03-s2-quc-9"/>lubanic, xa vulanic, xa pu chi<pc> –</pc>
+                    <lb n="10" id="xom-f03-s2-quc-10"/>vmaric, maui chicolol vholó
+                    <lb n="11" id="xom-f03-s2-quc-11"/>xa hum benac vi vvach, xacu<pc> –</pc>
+                    <lb n="12" id="xom-f03-s2-quc-12"/>luvach maui chimucun chirih
+                    <lb n="13" id="xom-f03-s2-quc-13"/>chichau nabec, mahabi vnaoh
+                    <lb n="14" id="xom-f03-s2-quc-14"/>xa huzuc chiumar paha, maui
+                    <lb n="15" id="xom-f03-s2-quc-15"/>qo, xeqha chicuri <rs ana="TZAQOL">ah ꜩac</rs> <rs ana="BITOL">ah bit</rs>.
+                    <lb n="16" id="xom-f03-s2-quc-16"/>cauach labec ta chuxoc xa
+                    <lb n="17" id="xom-f03-s2-quc-17"/>labe maui chibinic, ma pu chi<pc> –</pc>
+                    <lb n="18" id="xom-f03-s2-quc-18"/>pocotahic ta chuxoc xavnaoh
+                    <lb n="19" id="xom-f03-s2-quc-19"/>chiri xecha ta xquiyoh cut x<pc> –</pc>
+                    <lb n="20" id="xom-f03-s2-quc-20"/>quiyoc chic riqui ꜩac quibit
+                    <lb n="21" id="xom-f03-s2-quc-21"/>xeqha chicut hupacha qui<pc> –</pc>
+                    <lb n="22" id="xom-f03-s2-quc-22"/><del rend="overstrike" instant="false" status="unremarkable">qa</del> chicabano chuꜩin ta vi chi<pc> –</pc>
+                    <lb n="23" id="xom-f03-s2-quc-23"/>nauachir ta vi quihiloy quech
+                    <lb n="24" id="xom-f03-s2-quc-24"/>ziquÿ quech xecha ta xqui<pc> –</pc>
+                    <lb n="25" id="xom-f03-s2-quc-25"/>naohih chic xa cabÿh chique
+                    <lb n="26" id="xom-f03-s2-quc-26"/><rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmucane</rs>, <rs ana="JUNAJPU_WUCH">hun ah<pc> –</pc>
+                    <lb n="27" id="xom-f03-s2-quc-27"/>pu vuch</rs>, <rs ana="JUNAJPU_UTIW">hun ahpu vtiu</rs>. qui<pc> –</pc>
+                    <lb n="28" id="xom-f03-s2-quc-28"/>tiha chic vquihixic vbitaxic
+                    <lb n="29" id="xom-f03-s2-quc-29"/>xevqhan qui quib <rs ana="TZAQOL">ah ꜩac</rs>
+                    <lb n="30" id="xom-f03-s2-quc-30"/><rs ana="BITOL">ah bit</rs>. Ta xquibÿh cut chire
+                    <lb n="31" id="xom-f03-s2-quc-31"/><rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmucane</rs><add instant="false" status="unremarkable">¶</add> cate cut
+                    <lb n="32" id="xom-f03-s2-quc-32"/>vbixic ri chiquech ri enic vachi<pc> –</pc>
+                    <lb n="33" id="xom-f03-s2-quc-33"/>nel, ratit quih ratit zac que
+                    <lb n="34" id="xom-f03-s2-quc-34"/>vqhaxic cumal ri <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs>
+                    <lb n="35" id="xom-f03-s2-quc-35"/>are qui bi ri <rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmuca<pc> –</pc>
+                    <lb n="36" id="xom-f03-s2-quc-36"/>ne</rs>
+                    <!-- </p> -->
+                </div>
+                <div type="textpart" subtype="paragraph" n="8">
+                    <!-- <p xml:id="p08"> -->
+                    <lb n="37" rend="indent"/><hi rend="large">X</hi>eqha qu ri <rs ana="UKUX_KAJ">huracan</rs> ruq <rs ana="TEPEW_QUKUMATZ">te<pc> –</pc>
+                    <lb n="38" id="xom-f03-s2-quc-38"/>peu gucumaꜩ</rs> ta xquibih chire<pc> –</pc>
+                    <lb n="39" id="xom-f03-s2-quc-39"/>ch ahquih ah bit enic vachi<pc> –</pc>
+                    <lb n="40" id="xom-f03-s2-quc-40"/>nel xuculu, xa pu churico che<pc> –</pc>
+                    <lb n="41" id="xom-f03-s2-quc-41"/>ta chic chi cauinac bitoh, chica
+                    <lb n="42" id="xom-f03-s2-quc-42"/>vinac ꜩacoh ta chic ꜩucul cool coh
+                    <lb n="43" id="xom-f03-s2-quc-43"/>ziquixtah, cohnabaxtah puch, ca<pc> –</pc>
+                    <lb n="44" id="xom-f03-s2-quc-44"/>toc ta cut pa ꜩih <rs ana="IXMUKANE">iyom</rs> <rs ana="XPIYAKOK">mamom</rs>
+                    <lb n="45" id="xom-f03-s2-quc-45"/>catit camam <rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmuca
+                    <lb n="46" id="xom-f03-s2-quc-46"/>ne</rs> chatah ta chavaxoc, ta zaqui<pc> –</pc>
+                    <lb n="47" id="xom-f03-s2-quc-47"/>roc ca ziquixic, ca toquexic ca
+                    <!-- <pb xml:id="xom-f04-s1"/> -->
+                    <lb n="1" id="xom-f04-s1-quc-1"/>nabaxic rumal vinac ꜩac, vinac
+                    <lb n="2" id="xom-f04-s1-quc-2"/>bit, vinac poy, vinac anom cha
+                    <lb n="3" id="xom-f04-s1-quc-3"/>ta chuxoc chicutun ibi <rs ana="JUNAJPU_WUCH">hunahpu
+                    <lb n="4" id="xom-f04-s1-quc-4"/>vuch</rs>, <rs ana="JUNAJPU_UTIW">hunahpu vtiu</rs> camul <rs ana="ALOM">alo<pc> –</pc>
+                    <lb n="5" id="xom-f04-s1-quc-5"/>m</rs>, camul <rs ana="KAJOLOM">qaholom</rs> nimac nima
+                    <lb n="6" id="xom-f04-s1-quc-6"/><rs ana="SAQI_NIM_AQ_SIS">ꜩÿz</rs> ah cuval ah yamanic ah chut
+                    <lb n="7" id="xom-f04-s1-quc-7"/>ahꜩalam, ah raxalac, ah raxazel
+                    <lb n="8" id="xom-f04-s1-quc-8"/>ah eol, ah toltecat ratit quih ra
+                    <lb n="9" id="xom-f04-s1-quc-9"/>tiꜩac quixvqhaxic rumal caꜩac
+                    <lb n="10" id="xom-f04-s1-quc-10"/>cabit chimala chi ixim, chi ꜩite
+                    <lb n="11" id="xom-f04-s1-quc-11"/>xa chibanatahic xa pu chel apan
+                    <lb n="12" id="xom-f04-s1-quc-12"/>oc chicahah chicacotah puch
+                    <lb n="13" id="xom-f04-s1-quc-13"/>vchi vvach che xevqhaxic e
+                    <lb n="14" id="xom-f04-s1-quc-14"/>ah <del rend="overstrike" instant="false" status="unremarkable">t</del> quih cate puch vcahic v
+                    <lb n="15" id="xom-f04-s1-quc-15"/>quihiloxic ri xmalic chi ixim
+                    <lb n="16" id="xom-f04-s1-quc-16"/>chiꜩite quih bit xeqha quri
+                    <lb n="17" id="xom-f04-s1-quc-17"/>hunatit hunmama chiquech
+                    <lb n="18" id="xom-f04-s1-quc-18"/>are ri mama are ahꜩite <rs ana="XPIYAKOK">xpi<pc> –</pc>
+                    <lb n="19" id="xom-f04-s1-quc-19"/>yacoc</rs> vbi. arecu riatit ahquih
+                    <lb n="20" id="xom-f04-s1-quc-20"/>ahbit chi racan <rs ana="IXMUKANE">xmucane</rs> vbi
+                    <lb n="21" id="xom-f04-s1-quc-21"/>xeqha cut ta x<del rend="overstrike" instant="false" status="unremarkable"> </del>quitiquiba quih
+                    <lb n="22" id="xom-f04-s1-quc-22"/>xa chuculu xa pu chu rico ch<pc> –</pc>
+                    <lb n="23" id="xom-f04-s1-quc-23"/>abÿh cata caxiquin, caqha<pc> –</pc>
+                    <lb n="24" id="xom-f04-s1-quc-24"/>uic caꜩihontah xa chuculu
+                    <lb n="25" id="xom-f04-s1-quc-25"/>ri che chahavaxic chicotox
+                    <lb n="26" id="xom-f04-s1-quc-26"/>puch cumal ahꜩac ahbit.
+                    <lb n="27" id="xom-f04-s1-quc-27"/>ve are ꜩucul cool ta chavax
+                    <lb n="28" id="xom-f04-s1-quc-28"/>oc tazaquiroc at ixim at ꜩi<pc> –</pc>
+                    <lb n="29" id="xom-f04-s1-quc-29"/>te, at quih, at bit. catchoco<pc> –</pc>
+                    <lb n="30" id="xom-f04-s1-quc-30"/>nic cattaquentah xqha chi<pc> –</pc>
+                    <lb n="31" id="xom-f04-s1-quc-31"/>re ixim q,ite, quih bit. cat
+                    <lb n="32" id="xom-f04-s1-quc-32"/>quixla vloc at <rs ana="UKUX_KAJ">vqux cah</rs>
+                    <lb n="33" id="xom-f04-s1-quc-33"/>macahizah vchi vvach <rs ana="TEPEW_QUKUMATZ">tepeu
+                    <lb n="34" id="xom-f04-s1-quc-34"/>gucumaꜩ</rs> xeqha ta xquibih
+                    <lb n="35" id="xom-f04-s1-quc-35"/>cut v zuculiquil vꜩ are chu<pc> –</pc>
+                    <lb n="36" id="xom-f04-s1-quc-36"/>xic ri i poy aham che chiqha<pc> –</pc>
+                    <lb n="37" id="xom-f04-s1-quc-37"/>uic chiꜩihon bala chuvach
+                    <lb n="38" id="xom-f04-s1-quc-38"/>vleu ta chuxoc xeqha cut ta
+                    <lb n="39" id="xom-f04-s1-quc-39"/>xquibih huzuc xbanic poy a<pc> –</pc>
+                    <lb n="40" id="xom-f04-s1-quc-40"/>ham che xe vinac vachinic xe
+                    <lb n="41" id="xom-f04-s1-quc-41"/>vinac ꜩihonic puch are vina
+                    <lb n="42" id="xom-f04-s1-quc-42"/>quil vvach vleu xevxic xe
+                    <lb n="43" id="xom-f04-s1-quc-43"/>poquic xemealanic, xeqaho<pc> –</pc>
+                    <lb n="44" id="xom-f04-s1-quc-44"/>lonic ri poy aham che macu
+                    <lb n="45" id="xom-f04-s1-quc-45"/>habi qui qux ma pu habi qui<pc> –</pc>
+                    <lb n="46" id="xom-f04-s1-quc-46"/>naoh maui natal cah ꜩac
+                    <lb n="47" id="xom-f04-s1-quc-47"/>cah bit xaloc xebinic, xecha<pc> –</pc>
+                    <!-- <pb xml:id="xom-f04-s2"/> -->
+                    <note><num>4</num></note>
+                    <lb n="1" id="xom-f04-s2-quc-1"/>canic maui xquinatah chic ri <rs ana="UKUX_KAJ">v<pc> –</pc>
+                    <lb n="2" id="xom-f04-s2-quc-2"/>qux cah</rs> quehe cut xepah chivi
+                    <lb n="3" id="xom-f04-s2-quc-3"/>xa vtihtobexic xa pu v va ba<pc> –</pc>
+                    <lb n="4" id="xom-f04-s2-quc-4"/>bexic chi vinac queqhau na<pc> –</pc>
+                    <lb n="5" id="xom-f04-s2-quc-5"/>bec, xa chaquih qui vach mana
+                    <lb n="6" id="xom-f04-s2-quc-6"/>zonol cacan, quieab mahabi
+                    <lb n="7" id="xom-f04-s2-quc-7"/>qui quiquel, qui comahil, ma
+                    <lb n="8" id="xom-f04-s2-quc-8"/>habi qui ticoual, qui cabchÿal
+                    <lb n="9" id="xom-f04-s2-quc-9"/>cha quih coꜩ qoh qui vach. ca
+                    <lb n="10" id="xom-f04-s2-quc-10"/>pichipoh cacan, quicab caie
+                    <lb n="11" id="xom-f04-s2-quc-11"/>ioh quitiohil quehe cut maui
+                    <lb n="12" id="xom-f04-s2-quc-12"/>xenau chivi chuvach <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bi<pc> –</pc>
+                    <lb n="13" id="xom-f04-s2-quc-13"/>tol</rs> alai quech, quxlaai quech
+                    <lb n="14" id="xom-f04-s2-quc-14"/>enabe ꜩaꜩ chivinac xevxic
+                    <lb n="15" id="xom-f04-s2-quc-15"/>varal chuvach vleu
+                    <!-- </p> -->
+                </div>
+                <div type="textpart" subtype="paragraph" n="9">
+                    <!-- <p xml:id="p09"> -->
+                    <lb n="16" rend="indent"/><hi rend="large">C</hi>atecut qui quÿzic chic qui
+                    <lb n="17" id="xom-f04-s2-quc-17"/>mayxic qui cutuxic puch xe
+                    <lb n="18" id="xom-f04-s2-quc-18"/>camizax chic poy aham che
+                    <lb n="19" id="xom-f04-s2-quc-19"/>ta xnohix quibutic rumal <rs ana="UKUX_KAJ">vqux
+                    <lb n="20" id="xom-f04-s2-quc-20"/>cah</rs> nima butic xbanic xpe
+                    <lb n="21" id="xom-f04-s2-quc-21"/>pa quivi ri e poy e aham che
+                    <lb n="22" id="xom-f04-s2-quc-22"/>q,ite vtiohil ri achih, ta xaha<pc> –</pc>
+                    <lb n="23" id="xom-f04-s2-quc-23"/>xic, rumal <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs>, ixoc
+                    <lb n="24" id="xom-f04-s2-quc-24"/>zibac cut vtiohil ixoc. xrah
+                    <note resp="editor">The following line has two bold lines associated with it, one in the left margin, the other under the "ol" of "bitol" </note>
+                    <lb n="25" id="xom-f04-s2-quc-25"/>oquic rumal <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs> maui
+                    <lb n="26" id="xom-f04-s2-quc-26"/>xenauic, ma pu xeqhauic chu
+                    <lb n="27" id="xom-f04-s2-quc-27"/>vach cah ꜩac, cah bit banol que
+                    <lb n="28" id="xom-f04-s2-quc-28"/>vinaquirizay quech quehe
+                    <lb n="29" id="xom-f04-s2-quc-29"/>cut qui ca mizaxic xebutic
+                    <lb n="30" id="xom-f04-s2-quc-30"/>xpe nima eol chila chicah.
+                    <lb n="31" id="xom-f04-s2-quc-31"/>xe cotcovach vbi, xcotin vloc
+                    <lb n="32" id="xom-f04-s2-quc-32"/>vbac qui vach, xepe camaloꜩ
+                    <lb n="33" id="xom-f04-s2-quc-33"/>xcupin vla quiholom, xpe
+                    <lb n="34" id="xom-f04-s2-quc-34"/>coꜩbalam. xtio quitiohil, xpe
+                    <lb n="35" id="xom-f04-s2-quc-35"/>tucumbalam xtucuuic xqui<pc> –</pc>
+                    <lb n="36" id="xom-f04-s2-quc-36"/>chouic quibaquil, quibochil
+                    <lb n="37" id="xom-f04-s2-quc-37"/>xcahixic, xmuchulixic qui ba<pc> –</pc>
+                    <lb n="38" id="xom-f04-s2-quc-38"/>quil, cahizabal qui vach; ru
+                    <lb n="39" id="xom-f04-s2-quc-39"/>mal maui quinauic chuvach
+                    <lb n="40" id="xom-f04-s2-quc-40"/>qui <rs ana="ALOM">chuch</rs>, chuvach puch qui
+                    <lb n="41" id="xom-f04-s2-quc-41"/><rs ana="KAJOLOM">cahau</rs>, ri <rs ana="UKUX_KAJ">vqux cah, huracan</rs>
+                    <lb n="42" id="xom-f04-s2-quc-42"/>vbi, cumal xquecumaric v
+                    <lb n="43" id="xom-f04-s2-quc-43"/>vach vleu, xticaric quecal hab
+                    <lb n="44" id="xom-f04-s2-quc-44"/>quihil hab, acabal hab xoc vla
+                    <lb n="45" id="xom-f04-s2-quc-45"/>chuti chicop nima chicop xcut
+                    <lb n="46" id="xom-f04-s2-quc-46"/>qui vach rumal che abah. x<pc> –</pc>
+                    <lb n="47" id="xom-f04-s2-quc-47"/>qhauic ronohel qui quebal<pc> –</pc>
+                    <!-- <pb xml:id="xom-f05-s1"/> -->
+                    <lb n="1" id="xom-f05-s1-quc-1"/>quixot, qui lac, qui boh, qui ꜩi
+                    <lb n="2" id="xom-f05-s1-quc-2"/>quieaa, haruh pala ronohel
+                    <note place="margin-left" anchored="true">
+                    <del cert="high" instant="false" status="unremarkable">
+                    <num rend="large">1</num>
+                    </del>
+                    </note>
+                    <lb n="3" id="xom-f05-s1-quc-3"/>xcutu qui vach cax xiban
+                    <lb n="4" id="xom-f05-s1-quc-4"/>chique, xohitio ixchi cut x<pc> –</pc>
+                    <lb n="5" id="xom-f05-s1-quc-5"/>quixcati chic xqhari qui ꜩi
+                    <lb n="6" id="xom-f05-s1-quc-6"/>cac chiquech. re cu ri ꜫaa
+                    <lb n="7" id="xom-f05-s1-quc-7"/>xohcoconic iuumal hu ta
+                    <lb n="8" id="xom-f05-s1-quc-8"/>quih, hu ta quih, xquec zaqui<pc> –</pc>
+                    <lb n="9" id="xom-f05-s1-quc-9"/>ric amaquel holi, holi, hu<pc> –</pc>
+                    <lb n="10" id="xom-f05-s1-quc-10"/>qui, huqui ca vach ivumal
+                    <lb n="11" id="xom-f05-s1-quc-11"/>are ta nabe capatan chiva<pc> –</pc>
+                    <lb n="12" id="xom-f05-s1-quc-12"/>ch, ixtana vinac vaca<pc> –</pc>
+                    <lb n="13" id="xom-f05-s1-quc-13"/>mic cut xchitih ca chucab
+                    <lb n="14" id="xom-f05-s1-quc-14"/>xchicaqueeh, xchicahoc
+                    <lb n="15" id="xom-f05-s1-quc-15"/>puch i tiohil xqhari qui
+                    <lb n="16" id="xom-f05-s1-quc-16"/>ꜫaa chique. are curi qui
+                    <lb n="17" id="xom-f05-s1-quc-17"/>ꜩi xqha chic ta xqhauic, na
+                    <lb n="18" id="xom-f05-s1-quc-18"/>qui pa rumal maui chi<pc> –</pc>
+                    <lb n="19" id="xom-f05-s1-quc-19"/>ya cava, xa cohmucunic
+                    <lb n="20" id="xom-f05-s1-quc-20"/>xa pu cohicuxih vloc, coh
+                    <lb n="21" id="xom-f05-s1-quc-21"/>izac pu vloc yacal vbi ca
+                    <lb n="22" id="xom-f05-s1-quc-22"/>cheel ivumal ta quixva<pc> –</pc>
+                    <lb n="23" id="xom-f05-s1-quc-23"/>ic xere cohivuchaah vi
+                    <lb n="24" id="xom-f05-s1-quc-24"/>maui cohqhauic mata cu
+                    <lb n="25" id="xom-f05-s1-quc-25"/>mi xohcamic chiue hu pa
+                    <lb n="26" id="xom-f05-s1-quc-26"/>cha maui mi xixnauic
+                    <lb n="27" id="xom-f05-s1-quc-27"/>xixnau ta cut chiuih ta cut
+                    <lb n="28" id="xom-f05-s1-quc-28"/>xohzach vi, vacamic cut x<pc> –</pc>
+                    <lb n="29" id="xom-f05-s1-quc-29"/>chitih cabac qo pa ca chi x<pc> –</pc>
+                    <lb n="30" id="xom-f05-s1-quc-30"/>quixcatio xeqha ri ꜩi chi<pc> –</pc>
+                    <lb n="31" id="xom-f05-s1-quc-31"/>que ta xcut qui vach. are
+                    <lb n="32" id="xom-f05-s1-quc-32"/>chicuri qui xot, qui boh x<pc> –</pc>
+                    <lb n="33" id="xom-f05-s1-quc-33"/><note place="margin-left" anchored="true"><del rend="strikethrough" instant="false" status ="unremarkable">--|</del></note>chau chic chique: cax, va xi
+                    <lb n="34" id="xom-f05-s1-quc-34"/>ban chique xac ca chi, xac<pc> –</pc>
+                    <lb n="35" id="xom-f05-s1-quc-35"/>ca vach; amaquel oh ꜩacal
+                    <lb n="36" id="xom-f05-s1-quc-36"/>chuuicac cohicato maui cax
+                    <lb n="37" id="xom-f05-s1-quc-37"/>xcanao, xchitih cut xquix
+                    <lb n="38" id="xom-f05-s1-quc-38"/>caporoh xcha ri qui boh ro<pc> –</pc>
+                    <lb n="39" id="xom-f05-s1-quc-39"/>nohel xcutu qui vach. areri
+                    <lb n="40" id="xom-f05-s1-quc-40"/>abah ri quixcub chitaninic
+                    <lb n="41" id="xom-f05-s1-quc-41"/>chipe paꜫaꜫ taeal chi qui<pc> –</pc>
+                    <lb n="42" id="xom-f05-s1-quc-42"/>holom, cax xban chique.
+                    <lb n="43" id="xom-f05-s1-quc-43"/>anilabic que mal malihab
+                    <lb n="44" id="xom-f05-s1-quc-44"/>chic querah acanic chuvi
+                    <lb n="45" id="xom-f05-s1-quc-45"/>ha xa chiu vlih ha queꜩac
+                    <lb n="46" id="xom-f05-s1-quc-46"/>vloc, querah acan chuvi
+                    <lb n="47" id="xom-f05-s1-quc-47"/>che queqhaquix vloc ruma che
+                    <!-- <pb xml:id="xom-f05-s2"/> -->
+                    <lb n="1" id="xom-f05-s2-quc-1"/>querah oc pahul xa chiyuch
+                    <lb n="2" id="xom-f05-s2-quc-2"/>hul chi qui vach; que he cut
+                    <lb n="3" id="xom-f05-s2-quc-3"/>vcayohic vinac ꜩac vinac
+                    <lb n="4" id="xom-f05-s2-quc-4"/>bit, eꜩixel, e ꜩalaꜩoxel chi
+                    <lb n="5" id="xom-f05-s2-quc-5"/>vinac xmayxic, xcutuxic
+                    <lb n="6" id="xom-f05-s2-quc-6"/>quichi qui vach conohel, xqha
+                    <lb n="7" id="xom-f05-s2-quc-7"/>cut are retal ri qoy qo pa
+                    <lb n="8" id="xom-f05-s2-quc-8"/>quechelah vacamic, are
+                    <lb n="9" id="xom-f05-s2-quc-9"/>xqohe vi retal rumal xache
+                    <lb n="10" id="xom-f05-s2-quc-10"/>quitiohil xcohic rumal ah<pc> –</pc>
+                    <lb n="11" id="xom-f05-s2-quc-11"/>ꜩac ahbit, arecuri qoy que<pc> –</pc>
+                    <lb n="12" id="xom-f05-s2-quc-12"/>heri vinac chivachinic retal
+                    <lb n="13" id="xom-f05-s2-quc-13"/>hule vinac ꜩac, vinac bit
+                    <lb n="14" id="xom-f05-s2-quc-14"/>xapoy, xapu ahamche.
+                    <!-- </p> -->
+                </div>
+                <div type="textpart" subtype="paragraph" n="10">
+                    <!-- <p xml:id="p10"> -->
+                    <lb n="15" rend="indent"/><hi rend="large">A</hi>re cut xa hubic zac na
+                    <lb n="15.1"/>tanoh vvachvleu mahabi
+                    <lb n="16" id="xom-f05-s2-quc-16"/>quih hun cut cunimarizah
+                    <lb n="17" id="xom-f05-s2-quc-17"/>rib, <rs ana="WUQUB_KAKIX">vvcub caquix</rs> vbi, qo
+                    <lb n="18" id="xom-f05-s2-quc-18"/>nabe cah vleu, xa ca moy<pc> –</pc>
+                    <lb n="19" id="xom-f05-s2-quc-19"/>mot v vach quih ic caqha
+                    <lb n="20" id="xom-f05-s2-quc-20"/>curi: xaui xere vzaquetal
+                    <lb n="21" id="xom-f05-s2-quc-21"/>vinac rÿ, xbutic queheri
+                    <lb n="22" id="xom-f05-s2-quc-22"/>naual vinac vqoheic in
+                    <lb n="23" id="xom-f05-s2-quc-23"/>nim quiqohe chic chuvi vi<pc> –</pc>
+                    <note resp="editor">Big C is actually a correctional overwrite.</note>
+                    <lb n="24" id="xom-f05-s2-quc-24"/>nac ꜩaC vinac bit in vquih
+                    <lb n="25" id="xom-f05-s2-quc-25"/>in pu vzac in naipu riquil
+                    <lb n="26" id="xom-f05-s2-quc-26"/>ta chuxoc, nim nu zaquil in
+                    <lb n="27" id="xom-f05-s2-quc-27"/>binibal, in pu chacabal ru<pc> –</pc>
+                    <lb n="28" id="xom-f05-s2-quc-28"/>mal vinac. rumal puvac
+                    <lb n="29" id="xom-f05-s2-quc-29"/>vbac nuvach xa catilto<pc> –</pc>
+                    <lb n="30" id="xom-f05-s2-quc-30"/>tic chi yamanic raxa cuval
+                    <lb n="31" id="xom-f05-s2-quc-31"/>naypu ve raxcauacoh chi
+                    <lb n="32" id="xom-f05-s2-quc-32"/>abah queheri v va cah are
+                    <lb n="33" id="xom-f05-s2-quc-33"/>curi nu ꜩam zachuluhuh chi<pc> –</pc>
+                    <lb n="34" id="xom-f05-s2-quc-34"/>nah queheri ic puvac cut
+                    <lb n="35" id="xom-f05-s2-quc-35"/>nu calibal cazac paque v<pc> –</pc>
+                    <lb n="36" id="xom-f05-s2-quc-36"/>vach vleu ta quinel vloc
+                    <lb n="37" id="xom-f05-s2-quc-37"/>chuvach nu calibal quehe
+                    <lb n="38" id="xom-f05-s2-quc-38"/>cut in quih vi in pu ic ru<pc> –</pc>
+                    <lb n="39" id="xom-f05-s2-quc-39"/>mal zaquil al zaquil qahol
+                    <lb n="40" id="xom-f05-s2-quc-40"/>ta chuxoc rumal chinah copon
+                    <lb n="41" id="xom-f05-s2-quc-41"/>vi nu vach: qhari <rs ana="WUQUB_KAKIX">vucub ca<pc> –</pc>
+                    <lb n="42" id="xom-f05-s2-quc-42"/>quix</rs> macu quiꜩih are ta quih,
+                    <lb n="43" id="xom-f05-s2-quc-43"/>ri, <rs ana="WUQUB_KAKIX">vcub caquix</rs> xere cunima<pc> –</pc>
+                    <note resp="editor">Big C is actually and correctional overwrite </note>
+                    <lb n="44" id="xom-f05-s2-quc-44"/>rizah rib rivxic vpuvaC
+                    <lb n="45" id="xom-f05-s2-quc-45"/>xere cut tocol vi v vach ri
+                    <lb n="46" id="xom-f05-s2-quc-46"/>chicube vi mana ronohelta
+                    <!-- <pb xml:id="xom-f06-s1"/> -->
+                    <lb n="1" id="xom-f06-s1-quc-1"/>vxecah copon vi vvach. maha
+                    <lb n="2" id="xom-f06-s1-quc-2"/>cut qui quiloc v vach quih, ic
+                    <lb n="3" id="xom-f06-s1-quc-3"/>chumil mahaoc cazaquiroc
+                    <lb n="4" id="xom-f06-s1-quc-4"/>quehe cut cucobizah vi rib ri
+                    <lb n="5" id="xom-f06-s1-quc-5"/><rs ana="WUQUB_KAKIX">vucub caquix</rs> chiquihil, chi
+                    <lb n="6" id="xom-f06-s1-quc-6"/>iquil xa maha chicatunoc chi<pc> –</pc>
+                    <lb n="7" id="xom-f06-s1-quc-7"/>calahoboc vzaquil quih ic xa
+                    <lb n="8" id="xom-f06-s1-quc-8"/>xuraih nimal icouen are ta
+                    <lb n="9" id="xom-f06-s1-quc-9"/>xbanic butic cumal poy aham
+                    <lb n="10" id="xom-f06-s1-quc-10"/>che quehe cut xchicabÿh chic
+                    <lb n="11" id="xom-f06-s1-quc-11"/>ta xcamic <rs ana="WUQUB_KAKIX">vucub caquix</rs> ta
+                    <lb n="12" id="xom-f06-s1-quc-12"/>xchacatahic, ta xbanatahic vi<pc> –</pc>
+                    <lb n="13" id="xom-f06-s1-quc-13"/>nac rumal <rs ana="TZAQOL">ahꜩac</rs>, <rs ana="BITOL">ahbit</rs>.
+                    <!-- </p> -->
+                </div>  
+            </div>
+        </body>
+    </text>
+</TEI>
