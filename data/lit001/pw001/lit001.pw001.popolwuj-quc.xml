@@ -132,7 +132,7 @@
                     <lb n="32" id="xom-f01-s1-quc-32"/>bauil chuqhaxic.
                     <!-- </p> -->
                 </div>
-                <div type="textpart" subtype="paragraph" n="5">
+                <div type="section" subtype="paragraph" n="5">
                     <!-- <p xml:id="p05"> -->
                     <lb n="33" rend="indent"/><hi rend="large">T</hi>a xpe cut vꜩih varal xul
                     <lb n="34" id="xom-f01-s1-quc-34"/>cuq ri <rs ana="TEPEW_QUKUMATZ">tepeu gucumaꜩ</rs> varal
@@ -200,7 +200,7 @@
                     <lb n="1" id="xom-f02-s2-quc-1"/>tahic cumal.
                     <!-- </p> -->
                 </div>
-                <div type="textpart" subtype="paragraph" n="6">
+                <div type="section" subtype="paragraph" n="6">
                     <!-- <p xml:id="p06"> -->
                     <note><num>2</num></note>
                     <lb n="2" rend="indent"/><hi rend="large">T</hi>a xquinohih chic vchicop<pc> –</pc>
@@ -236,7 +236,7 @@
                     <lb n="32" id="xom-f02-s2-quc-32"/>ri queh ꜩiquin
                     <!-- </p> -->
                 </div>
-                <div type="textpart" subtype="paragraph" n="7">
+                <div type="section" subtype="paragraph" n="7">
                     <!-- <p xml:id="p07"> -->
                     <lb n="33" rend="indent"/><hi rend="large">T</hi>a xevqhax chicut rÿ queh
                     <lb n="34" id="xom-f02-s2-quc-34"/>ꜩiquin rumal <rs ana="TZACOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs> <rs ana="ALOM">a<pc> –</pc>
@@ -340,7 +340,7 @@
                     <lb n="36" id="xom-f03-s2-quc-36"/>ne</rs>
                     <!-- </p> -->
                 </div>
-                <div type="textpart" subtype="paragraph" n="8">
+                <div type="section" subtype="paragraph" n="8">
                     <!-- <p xml:id="p08"> -->
                     <lb n="37" rend="indent"/><hi rend="large">X</hi>eqha qu ri <rs ana="UKUX_KAJ">huracan</rs> ruq <rs ana="TEPEW_QUKUMATZ">te<pc> –</pc>
                     <lb n="38" id="xom-f03-s2-quc-38"/>peu gucumaꜩ</rs> ta xquibih chire<pc> –</pc>
@@ -420,7 +420,7 @@
                     <lb n="15" id="xom-f04-s2-quc-15"/>varal chuvach vleu
                     <!-- </p> -->
                 </div>
-                <div type="textpart" subtype="paragraph" n="9">
+                <div type="section" subtype="paragraph" n="9">
                     <!-- <p xml:id="p09"> -->
                     <lb n="16" rend="indent"/><hi rend="large">C</hi>atecut qui quÿzic chic qui
                     <lb n="17" id="xom-f04-s2-quc-17"/>mayxic qui cutuxic puch xe
@@ -525,7 +525,7 @@
                     <lb n="14" id="xom-f05-s2-quc-14"/>xapoy, xapu ahamche.
                     <!-- </p> -->
                 </div>
-                <div type="textpart" subtype="paragraph" n="10">
+                <div type="section" subtype="paragraph" n="10">
                     <!-- <p xml:id="p10"> -->
                     <lb n="15" rend="indent"/><hi rend="large">A</hi>re cut xa hubic zac na
                     <lb n="15.1"/>tanoh vvachvleu mahabi
