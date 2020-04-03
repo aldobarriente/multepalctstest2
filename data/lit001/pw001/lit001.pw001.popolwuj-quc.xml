@@ -1549,8 +1549,10 @@
                     <lb n="16" rend="indent"/><hi rend="large">V</hi>a chi cute vꜩihoxic hun capoh
                     <lb n="17" id="xom-f15-s2-quc-17"/><rs ana="IXKIK">vmeal</rs> hun ahau <rs ana="KUCHUMA_KIK">cuchumaquic</rs>
                     <lb n="18" id="xom-f15-s2-quc-18"/>vbi.
-                    </p>
-                    <p xml:id="p21">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="21">
+                    <!-- <p xml:id="p21"> -->
                     <lb n="19" rend="indent"/><hi rend="large">A</hi>re cut ta xuta hun <rs ana="IXKIK">capoh vme<pc> –</pc>
                     <lb n="20" id="xom-f15-s2-quc-20"/>al</rs> hun ahau <rs ana="KUCHUMA_KIK">cuchumaquic</rs> vbi v
                     <lb n="21" id="xom-f15-s2-quc-21"/>cahau <rs ana="IXKIK">xquic</rs> cut vbi ri capoh ta
@@ -1620,8 +1622,10 @@
                     <lb n="31" id="xom-f16-s1-quc-31"/>caquib ic ta xnauachil rumal
                     <lb n="32" id="xom-f16-s1-quc-32"/>vcahau ri <rs ana="KUCHUMA_KIK">cuchumaquic</rs> vbi v
                     <lb n="33" id="xom-f16-s1-quc-33"/>cahau
-                    </p>
-                    <p xml:id="p22">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="22">
+                    <!-- <p xml:id="p22"> -->
                     <lb n="34" rend="indent"/><hi rend="large">C</hi>ate puch vnatahic capoh ru<pc> –</pc>
                     <lb n="35" id="xom-f16-s1-quc-35"/>mal vcahau ta xil ri ral cochic
                     <lb n="36" id="xom-f16-s1-quc-36"/>ta <rs ana="IXKIK">xquicuch</rs> cut qui naoh cono<pc> –</pc>
@@ -1718,8 +1722,10 @@
                     <lb n="27" id="xom-f17-s1-quc-27"/>chacatah vi rahaual <rs ana="XIBALBA">xibalba</rs>
                     <lb n="28" id="xom-f17-s1-quc-28"/>ri rumal <rs ana="IXKIK">capoh</rs> xemoyvachixic
                     <lb n="29" id="xom-f17-s1-quc-29"/>conohel.
-                    </p>
-                    <p xml:id="p23">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="23">
+                    <!-- <p xml:id="p23"> -->
                     <lb n="30" rend="indent"/><hi rend="large">A</hi>re cut e qo ri <rs ana="IXMUKANE">vchuch</rs> <rs ana="JUN_BATZ">hun baꜩ</rs>
                     <lb n="31" id="xom-f17-s1-quc-31"/><rs ana="JUN_CHOWEN">hun choven</rs> ta xul ri ixoc <rs ana="IXKIK">xquic</rs> v
                     <lb n="32" id="xom-f17-s1-quc-32"/>bi. ta xul cut ri ixoc <rs ana="IXKIK">xquic</rs> ruq
@@ -1798,12 +1804,16 @@
                     <lb n="6" id="xom-f18-s1-quc-6"/>tal ri quiꜩih vi chiat valib chivil
                     <lb n="7" id="xom-f18-s1-quc-7"/>china abanoh ri eqorivi enavinac
                     <lb n="8" id="xom-f18-s1-quc-8"/>chic xuqhax cut <rs ana="IXKIK">capoh</rs>
-                    </p>
-                    <p xml:id="p24">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="24">
+                    <!-- <p xml:id="p24"> -->
                     <lb n="9" rend="indent"/><hi rend="large">A</hi>re chic xchicaꜩihoh calaxic
                     <lb n="10" id="xom-f18-s1-quc-10"/><rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs>
-                    </p>
-                    <p xml:id="p25">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="25">
+                    <!-- <p xml:id="p25"> -->
                     <lb n="11" rend="indent"/><hi rend="large">A</hi>re cut calaxic vae xchicabÿh
                     <lb n="12" id="xom-f18-s1-quc-12"/>ta xuric vquih calaxic taxalan
                     <lb n="13" id="xom-f18-s1-quc-13"/>puch ri <rs ana="IXKIK">capoh</rs> <rs ana="IXKIK">xquic</rs> vbi. macu xu
@@ -1942,8 +1952,10 @@
                     <lb n="40" id="xom-f19-s1-quc-40"/>qui quih xeqha cut cate puch x<pc> –</pc>
                     <lb n="41" id="xom-f19-s1-quc-41"/>quitiquiba zuanic, <rs ana="JUNAJPU">hun ahpu</rs> x coy
                     <lb n="42" id="xom-f19-s1-quc-42"/>xquizuah.
-                    </p>
-                    <p xml:id="p26">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="26">
+                    <!-- <p xml:id="p26"> -->
                     <lb n="43" rend="indent"/><hi rend="large">C</hi>atepuch xebixanic xezuanic
                     <lb n="44" id="xom-f19-s1-quc-44"/>xe cohomanic ta vcamic riqui zu
                     <lb n="45" id="xom-f19-s1-quc-45"/>qui cohom ta xcube puch ri catit
@@ -2015,8 +2027,10 @@
                     <lb n="11" id="xom-f20-s1-quc-11"/>ch chic xavi xere e ahzu e ahbix
                     <lb n="12" id="xom-f20-s1-quc-12"/>nim chic xquibano ta xecoheic rug
                     <lb n="13" id="xom-f20-s1-quc-13"/>ratit rug pu quichuch
-                    </p>
-                    <p xml:id="p27">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="27">
+                    <!-- <p xml:id="p27"> -->
                     <lb n="14" rend="indent"/><hi rend="large">T</hi>a x quitiquiba chicut quibanoh
                     <lb n="15" id="xom-f20-s1-quc-15"/>qui cutbal quib chuvach catit chu<pc> –</pc>
                     <lb n="16" id="xom-f20-s1-quc-16"/>vachpu qui chuch nabe xquibano
@@ -2178,8 +2192,10 @@
                     <lb n="19" id="xom-f21-s2-quc-19"/>pixabah hunacab xcam qui na<pc> –</pc>
                     <lb n="20" id="xom-f21-s2-quc-20"/>oh ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> qui
                     <lb n="21" id="xom-f21-s2-quc-21"/>cutiquil quih xeoponic.
-                    </p>
-                    <p xml:id="p28">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="28">
+                    <!-- <p xml:id="p28"> -->
                     <lb n="22" rend="indent"/><hi rend="large">M</hi>acu calah richo cucaam
                     <lb n="23" id="xom-f21-s2-quc-23"/>taxeoponic hunriyacalic xoc
                     <lb n="24" id="xom-f21-s2-quc-24"/>paha, huncu xoc xiquinha libah
@@ -2227,8 +2243,10 @@
                     <lb n="13" id="xom-f22-s1-quc-13"/>hunam cut xepe chic, enabe chu<pc> –</pc>
                     <lb n="14" id="xom-f22-s1-quc-14"/>vach catit quehe cut vcanaic quic
                     <lb n="15" id="xom-f22-s1-quc-15"/>ri.
-                    </p>
-                    <p xml:id="p29">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="29">
+                    <!-- <p xml:id="p29"> -->
                     <lb n="16" rend="indent"/><hi rend="large">Q</hi>uequicot chicut xebec echaa
                     <lb n="17" id="xom-f22-s1-quc-17"/>hel, pahom nahtcu xechaahic qui
                     <lb n="18" id="xom-f22-s1-quc-18"/>tuquel xquimez rihom quicahau
@@ -2319,8 +2337,10 @@
                     <lb n="1" id="xom-f23-s1-quc-1"/><rs ana="PAJARO">vac</rs> co, <rs ana="PAJARO">vac</rs> co xqha roquibal <rs ana="PAJARO">vac</rs> co
                     <lb n="2" id="xom-f23-s1-quc-2"/>naquipa ri choquic petaca vvb xe
                     <lb n="3" id="xom-f23-s1-quc-3"/>qha.
-                    </p>
-                    <p xml:id="p30">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="30">
+                    <!-- <p xml:id="p30"> -->
                     <lb n="4" rend="indent" /><hi rend="large">C</hi>atepuch xquivvbah ri <rs ana="PAJARO">vac</rs> qui<pc> –</pc>
                     <lb n="5" id="xom-f23-s1-quc-5"/>cutacal vbaca vvb chu baca vvach
                     <lb n="6" id="xom-f23-s1-quc-6"/>chizetet cut xcah vloc quiꜩih vi
