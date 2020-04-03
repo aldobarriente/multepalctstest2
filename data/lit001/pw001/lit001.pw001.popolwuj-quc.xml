@@ -15,11 +15,11 @@
         </fileDesc>
         <encodingDesc>
             <refsDecl n="capitains" xml:base="urn:cts:mayanLit:lit001.pw001.popolwuj-quc:">
-                <cRefPattern corresp="2" n="line"
+                <!-- <cRefPattern corresp="2" n="line"
                              matchPattern="(\w+).(\w+)"
                              replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:lb[@n='$2'])">
                     <p>pointer pattern extracting paragraph and line</p>
-                </cRefPattern>
+                </cRefPattern> -->
                 <cRefPattern corresp="1" n="paragraph"
                             matchPattern="(\w+)"
                             replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
