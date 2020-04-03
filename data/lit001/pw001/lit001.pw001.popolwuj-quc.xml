@@ -3190,8 +3190,10 @@
                     <lb n="4" id="xom-f31-s1-quc-4"/>are quebanovic caquicot quiqux
                     <lb n="5" id="xom-f31-s1-quc-5"/><rs ana="JUN_KAME">huncame</rs> <rs ana="WUQUB_KAME">vvcub came</rs> queheri
                     <lb n="6" id="xom-f31-s1-quc-6"/>are quexahovic caquinao.
-                    </p>
-                    <p xml:id="p41">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="41">
+                    <!-- <p xml:id="p41"> -->
                     <lb n="7" rend="indent" />Cate puch vrainic vmalinic
                     <lb n="8" id="xom-f31-s1-quc-8"/>pu quiqux ahauab chire qui
                     <lb n="9" id="xom-f31-s1-quc-9"/>xahoh <rs ana="JUNAJPU">xhun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs>
@@ -3241,8 +3243,10 @@
                     <lb n="2" id="xom-f31-s2-quc-2"/>bano. cate puch ta xquibÿh
                     <lb n="3" id="xom-f31-s2-quc-3"/>qui bi, xquicobizah quib chi<pc> –</pc>
                     <lb n="4" id="xom-f31-s2-quc-4"/>qui vach conohel <rs ana="XIBALBA">xibalba</rs>.
-                    </p>
-                    <p xml:id="p42">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="42">
+                    <!-- <p xml:id="p42"> -->
                     <lb n="5" rend="indent" />Chitaa cabi xchicabÿh. xch<pc> –</pc>
                     <lb n="6" id="xom-f31-s2-quc-6"/>icabÿh naipuch vbi cacahau
                     <lb n="7" id="xom-f31-s2-quc-7"/>chive ohva, oh <rs ana="JUNAJPU">xhun ahpu</rs>
@@ -3326,8 +3330,10 @@
                     <lb n="37" id="xom-f32-s1-quc-37"/>chila chi <rs ana="XIBALBA">xibalba</rs>. xqhau chic qui
                     <lb n="38" id="xom-f32-s1-quc-38"/>cahau chiquetax xquichac <rs ana="XIBALBA">xi<pc> –</pc>
                     <lb n="39" id="xom-f32-s1-quc-39"/>balba</rs>.  <note resp="editor">somehow left out of flat, added by me </note>
-                    </p>
-                    <p xml:id="p43">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="43">
+                    <!-- <p xml:id="p43"> -->
                     <lb n="40" rend="indent"/>Vacute vviquic chic qui ca<pc> –</pc>
                     <lb n="41" id="xom-f32-s1-quc-41"/>hau cumal are xquivic ri <rs ana="WUQUB_JUNAJPU">vvcub
                     <lb n="42" id="xom-f32-s1-quc-42"/>hunahpu</rs> chila xbe quivica vi chi
@@ -3364,8 +3370,10 @@
                     <lb n="22" id="xom-f32-s2-quc-22"/>much qaholab</rs> xecam rumal
                     <lb n="23" id="xom-f32-s2-quc-23"/><rs ana="SIPAKNA">zipacna</rs> are cut cachbil xu<pc> –</pc>
                     <lb n="24" id="xom-f32-s2-quc-24"/>xic e vchumilal cah xevxic.
-                    </p>
-                    <p xml:id="p44">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="44">
+                    <!-- <p xml:id="p44"> -->
                     <lb n="25" rend="indent"/><hi rend="large">V</hi>ae cut vtiqueric ta xnaohix
                     <lb n="26" id="xom-f32-s2-quc-26"/>vinac ta xꜩucux puch ri choc vtio<pc> –</pc>
                     <lb n="27" id="xom-f32-s2-quc-27"/>hilvinac xeqha cut ri <rs ana="ALOM">alom</rs> <rs ana="KAJOLOM">qa<pc> –</pc>
@@ -3384,12 +3392,16 @@
                     <lb n="40" id="xom-f32-s2-quc-40"/>vtiohil vinac xazcaquin chic ma
                     <lb n="41" id="xom-f32-s2-quc-41"/>ui cauachin quih ic chumil pa
                     <lb n="42" id="xom-f32-s2-quc-42"/>qui vi e <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs>.
-                    </p>
-                    <p xml:id="p45">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="45">
+                    <!-- <p xml:id="p45"> -->
                     <lb n="43" rend="indent"/><hi rend="large">P</hi>an <rs ana="PAXIL">paxil</rs>, pan <rs ana="KAYALA">cayala</rs> vbi xpe
                     <lb n="44" id="xom-f32-s2-quc-44"/>vi eanahal zaquihal.
-                    </p>
-                    <p xml:id="p46">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="46">
+                    <!-- <p xml:id="p46"> -->
                     <lb n="45" rend="indent"/><hi rend="large">A</hi>re cuquibi chicop va camolre
                     <lb n="46" id="xom-f32-s2-quc-46"/>cha. yac, vtiu, quel, hoh ecahib
                     <lb n="47" id="xom-f32-s2-quc-47"/>chi chicop xbÿn vꜩihel ꜫanahal
@@ -3425,16 +3437,20 @@
                     <lb n="28" id="xom-f33-s1-quc-28"/>can veab vinac ri e canabe ca<pc> –</pc>
                     <lb n="29" id="xom-f33-s1-quc-29"/>hau e cahib chivinac ꜩac xa
                     <lb n="30" id="xom-f33-s1-quc-30"/>echa oquinac quitiohil.
-                    </p>
-                    <p xml:id="p47">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="47">
+                    <!-- <p xml:id="p47"> -->
                     <lb n="31" rend="indent"/><hi rend="large">V</hi>ae quibi naabe vinac xeꜩa<pc> –</pc>
                     <lb n="32" id="xom-f33-s1-quc-32"/>quic xebitic. are nabe vinac ri
                     <lb n="33" id="xom-f33-s1-quc-33"/><rs ana="BALAM_KITZE">Balam qui ꜩe</rs>. vcab chicut <rs ana="BALAM_AQAB">Ba<pc> –</pc>
                     <lb n="34" id="xom-f33-s1-quc-34"/>lam acab</rs>. roxchi cut <rs ana="MAJUKUTAJ">Mahucutah</rs>.
                     <lb n="35" id="xom-f33-s1-quc-35"/>vcah cut <rs ana="IKIBALAM">Iquibalam</rs>. are cu
                     <lb n="36" id="xom-f33-s1-quc-36"/>quibi ri canabe chuch cahau.
-                    </p>
-                    <p xml:id="p48">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="48">
+                    <!-- <p xml:id="p48"> -->
                     <lb n="37" rend="indent"/>Xa ꜩac xa bit que vqhaxic
                     <lb n="38" id="xom-f33-s1-quc-38"/>mahabi quichuch mahabi qui<pc> –</pc>
                     <lb n="39" id="xom-f33-s1-quc-39"/>cahau xa vtuquel achih chica<pc> –</pc>
@@ -3470,8 +3486,10 @@
                     <lb n="18" id="xom-f33-s2-quc-18"/>tacah. quiꜩih vi chi eloeolah
                     <lb n="19" id="xom-f33-s2-quc-19"/>vinac ri <rs ana="BALAM_KITZE">balam quiꜩe</rs>, <rs ana="BALAM_AQAB">Balam<pc> –</pc>
                     <lb n="20" id="xom-f33-s2-quc-20"/>acab</rs>, <rs ana="MAJUKUTAJ">mahucutah</rs>, <rs ana="IKIBALAM">iquibalam</rs>.
-                    </p>
-                    <p xml:id="p49">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="49">
+                    <!-- <p xml:id="p49"> -->
                     <lb n="21" rend="indent"/>Ta xeꜩonox cut rumal ri
                     <lb n="22" id="xom-f33-s2-quc-22"/><rs ana="TZAQOL">ahꜩac</rs> <rs ana="BITOL">ahbit</rs> huchalic iqohei
                     <lb n="23" id="xom-f33-s2-quc-23"/>quinao maqui xmucunic ma
@@ -3501,8 +3519,10 @@
                     <lb n="47" id="xom-f33-s2-quc-47"/>bit mixquetamah ronohel nim
                     <pb xml:id="xom-f34-s1"/>
                     <lb n="1" id="xom-f34-s1-quc-1"/>chutin queqha.
-                    </p>
-                    <p xml:id="p50">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="50">
+                    <!-- <p xml:id="p50"> -->
                     <lb n="2" rend="indent"/>Quehe chicut vcamic chic
                     <lb n="3" id="xom-f34-s1-quc-3"/>qui naoh <rs ana="ALOM">alom</rs> <rs ana="KAJOLOM">qaholom</rs> hucha
                     <lb n="4" id="xom-f34-s1-quc-4"/>chic chicaban chique xata nacah
