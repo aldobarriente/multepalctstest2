@@ -22,7 +22,7 @@
                 </cRefPattern> -->
                 <cRefPattern corresp="1" n="paragraph"
                             matchPattern="(\w+)"
-                            replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+                            replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div)">
                 <p>pointer pattern extracting paragraph</p>
                 </cRefPattern>
             </refsDecl>
