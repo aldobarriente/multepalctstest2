@@ -24,6 +24,9 @@
                 <p>pointer pattern extracting paragraph</p>
                 </cRefPattern>
             </refsDecl>
+            <refsDecl>
+                <refState unit = "paragraph"/>
+            </refsDecl>
         </encodingDesc>
         <profileDesc>
             <langUsage default="false">
