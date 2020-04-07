@@ -20,9 +20,7 @@
                              replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:lb[@n='$2'])">
                     <p>pointer pattern extracting paragraph and line</p>
                 </cRefPattern> -->
-                <cRefPattern corresp="1" n="paragraph"
-                            matchPattern="(\w+)"
-                            replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div)">
+                <cRefPattern corresp="1" n="paragraph" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div)">
                 <p>pointer pattern extracting paragraph</p>
                 </cRefPattern>
             </refsDecl>
