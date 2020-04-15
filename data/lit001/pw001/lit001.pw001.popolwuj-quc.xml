@@ -52,9 +52,9 @@
             </creation>
         </profileDesc>
     </teiHeader>
-    <text n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc:" xml:id="MS1515v2">
+    <text n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc" xml:id="MS1515v2">
         <body>
-            <div type="column" n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc:" xml:lang="quc">
+            <div type="column" n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc" xml:lang="quc">
                 <div type="section" subtype="paragraph" n="1">
                   <lb n="1" /><hi rend="very-large">ARE V XE OHER</hi>
                   <lb n="2" rend="hanging"/>Ꜩih varal Quiche vbi.
