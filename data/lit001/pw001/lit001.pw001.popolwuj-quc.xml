@@ -3,9 +3,25 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Popol Wuj</title>
-                <author>Anonymous K'iche' authors</author>
+                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+                <author>Nim Chokoj k'ut chuwach Kaweqib' (gran maestro de la palabra ante los Kaweq)</author>
+                <author>chuwach Nija'ib', ukab' k'u ri' (gran maestro de la palabra ante los Nija'ib era el segundo)</author>
+                <author>Nim Chokoj Ajaw chuwach Ajaw K'iche', rox Nim Chokoj (gran maestro de la palabra era el tercer Señor ante los Ajaw K'iche)</author>
             </titleStmt>
+                <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <publisher>le winaq</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+                <pubPlace>Iximulew</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio , Side .
+                Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
+                https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
+            </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <refsDecl n="capitains" xml:base="urn:cts:mayanLit:lit001.pw001.popolwuj-quc:">
@@ -25,11 +41,15 @@
             </refsDecl>
         </encodingDesc>
         <profileDesc>
-            <langUsage default="false">
-                <language ident="eng">English</language>
-                <language ident="spa">Spanish</language>
+            <langUsage>
                 <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
             </langUsage>
+            <creation>
+                <!-- Contains information about the creation of a text, e.g. phrases describing 
+                the origin of the text, e.g. the date and place of its composition. -->
+                <date instant="false">Spring 2017</date>
+            </creation>
         </profileDesc>
     </teiHeader>
     <text n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc" xml:id="MS1515v2" n="1515.2">
