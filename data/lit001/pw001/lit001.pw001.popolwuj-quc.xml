@@ -52,7 +52,7 @@
             </creation>
         </profileDesc>
     </teiHeader>
-    <text n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc" xml:id="MS1515v2">
+    <text xml:id="MS1515v2">
         <body>
             <div xml:lang="quc" 
                  type="column" 
