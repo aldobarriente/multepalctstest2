@@ -4618,7 +4618,7 @@
                     <lb n="46" />qha curi <rs ana="TOJIL">tohil</rs> <rs ana="AWILIX">aulix</rs> <rs ana="JAQAWITZ">hacaviꜩ</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="">
+                <div type="section" subtype="paragraph" n="67a">
                     <!-- <p> -->
                     <pb xml:id="xom-f44-s2"/>
                     <lb n="1"/>ta xeqhau chic chiquech ri xtah
@@ -5791,29 +5791,29 @@
                     <lb n="40"/>hunal ahauab quiche
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="1">
                     <!-- <p> -->
                     <lb n="41" rend="indent"/><rs ana="BALAM_KITZE"><hi rend="large">B</hi>alam quiꜩe</rs> vxe nabal <rs ana="KAWEQ">cavi
                     <lb n="42" rend="hanging"/>quib</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="2">
                     <!-- <p> -->
                     <lb n="43"/><rs ana="KOQAWIB_KQDOS"><hi rend="large">Cocauib</hi></rs> vcale chic <rs ana="BALAM_KITZE">balam quiꜩe</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="3">
                     <!-- <p> -->
                     <lb n="44"/><rs ana="BALAM_KONACHE_KQTRES"><hi rend="large">B</hi>alam conache</rs> xtiquiban ahpopol
                     <lb n="45" rend="hanging"/>roxle curi
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="4">
                     <!-- <p> -->
                     <lb n="46"/><rs ana="KOTUJA_KQCUATRO"><hi rend="large">C</hi>otuha</rs> <rs ana="ISTAYUL_KQCUATRO">ztayub</rs> vcahle
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="5">
                     <!-- <p> -->
                     <lb n="47"/><rs ana="QUKUMATZ_KQCINCO"><hi rend="large">C</hi>ucumaꜩ</rs> <rs ana="KOTUJA_KQCINCO">cotuha</rs> vxe naval ahau
                     <pb xml:id="xom-f55-s2"/>
@@ -5823,40 +5823,40 @@
                     <lb n="1" rend="hanging" />role xqohe vi
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="6">
                     <!-- <p> -->
                     <lb n="2"/><rs ana="TEPEPUL_KQSEIS"><hi rend="large">T</hi>epepul</rs> <rs ana="ISTAYUL_KQSEIS">ztayul</rs> chic vvac taz.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="7">
                     <!-- <p> -->
                     <lb n="3"/><rs ana="KIKAB_KQSIETE"><hi rend="large">Q</hi>uicab</rs> <rs ana="KAWISIMAJ_KQSIETE">cauizimah</rs> vvc hal aha
                     <lb n="4" rend="hanging" />uarem naval chivi
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="8">
                     <!-- <p> -->
                     <lb n="5"/><rs ana="TEPEPUL_KQOCHO"><hi rend="large">T</hi>epepul</rs> <rs ana="ISTAYUL_KQOCHO">xtayub</rs> v vahxac le
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="9">
                     <!-- <p> -->
                     <lb n="6"/><rs ana="TEKUM_KQNUEVE"><hi rend="large">T</hi>ecum</rs> <rs ana="TEPEPUL_KQNUEVE">tepepul</rs> vbeleh le
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="10">
                     <!-- <p> -->
                     <lb n="7"/><rs ana="WAJXAQIB_KAM_KQDIEZ"><hi rend="large">V</hi>ahxaqui caam</rs> <rs ana="KIKAB_KQDIEZ">quicab</rs> cut vla
                     <lb n="8" rend="hanging" />hule ahavab
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="11">
                     <!-- <p> -->
                     <lb n="9"/><rs ana="WUQUB_NOJ_KQONCE"><hi rend="large">V</hi>ucub noh</rs> <rs ana="KUWATEPECH_KQONCE">cauatepech</rs> chic vhu<pc> –</pc>
                     <lb n="10"/>lahu taz ahauab
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="12">
                     <!-- <p> -->
                     <lb n="11"/><rs ana="OXIB_KEJ_KQDOCE"><hi rend="large">O</hi>xib quieh</rs><rs ana="BELEJEB_TZI_KQDOCE">beleheb ꜩi</rs> vcabla<pc> –</pc>
                     <lb n="12" rend="hanging" />hule ahauab. arecut que aha
@@ -5864,7 +5864,7 @@
                     <lb n="14" rend="hanging" />xic rumal castillan vinac
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="13">
                     <!-- <p> -->
                     <lb n="15"/><rs ana="TEKUM_TRECE"><hi rend="large">T</hi>ecum</rs> <rs ana="TEPEPUL_TRECE">tepepul</rs> xepatanihic chu<pc> –</pc>
                     <lb n="16" rend="hanging" />uach castillan vinac are xe
@@ -5872,7 +5872,7 @@
                     <lb n="18" rend="hanging" />hauab
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="14">
                     <!-- <p> -->
                     <lb n="19"/><rs ana="DON_JUAN_DE_ROJAS_KQCATORCE"><hi rend="large">D</hi>on Ju<hi rend="superscript">o.</hi> de Rojas</rs> <rs ana="DON_JUAN_CORTÉS_KQCATORCE">Don Ju<hi rend="superscript">o.</hi> cortes</rs>
                     <lb n="20"/>cablahu le ahauab eqahola<pc> –</pc>
@@ -5892,50 +5892,50 @@
                     <lb n="30"/>vbi e rahaual huhun chi nimha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="15">
                     <!-- <p> -->
                     <lb n="31"/><hi rend="large">A</hi>hau ahpop hun vnimha cuhavbi
                     <lb n="32" rend="hanging" />nimha
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="16">
                     <!-- <p> -->
                     <lb n="33"/><hi rend="large">A</hi>hau ahpopcamha ꜩiquinahavbi
                     <lb n="34" rend="hanging" />vnimha
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="17">
                     <!-- <p> -->
                     <lb n="35"/><rs ana="NIM_CHOKOJ_KAWEQ"><hi rend="large">N</hi>im chocoh cavec</rs> hun vnimha ah<pc> –</pc>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="18">
                     <!-- <p> -->
                     <lb n="36"/><hi rend="large">A</hi>hau ahtohil hun vnimha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="19">
                     <!-- <p> -->
                     <lb n="37"/><hi rend="large">A</hi>hau ah cucumaꜩ hun vnimha
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="20">
                     <!-- <p> -->
                     <lb n="38"/><hi rend="large">P</hi>opolvinac chitui hun vnimha
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="21">
                     <!-- <p> -->
                     <lb n="39"/><rs ana="LOLMET_KEJNAY"><hi rend="large">L</hi>olmet queh nai</rs> hun vnimha
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="22">
                     <!-- <p> -->
                     <lb n="40"/><rs ana="POPOL_WINAQ_PA_JOM_TZALATZ"><hi rend="large">P</hi>opolvinac pahom ꜩalaꜩ</rs> xcuxe<pc> –</pc>
                     <lb n="41" rend="hanging" />ba hun vnimha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="23">
                     <!-- <p> -->
                     <lb n="42"/><rs ana="YAKI_TEPEW"><hi rend="large">T</hi>epeu iaqui</rs> hun vnimha
                     <!-- </p> -->
@@ -5957,71 +5957,71 @@
                     <lb n="3"/>quih vxe zac chivinac
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="24">
                     <!-- <p> -->
                     <lb n="4"/><rs ana="BALAM_AQAB "><hi rend="large">B</hi>alam acab</rs> nabe mamaxel ca
                     <lb n="5" rend="hanging"/>hauixel.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="25">
                     <!-- <p> -->
                     <lb n="6"/><rs ana="KOAKUL_NJDOS"><hi rend="large">C</hi>oacul</rs><rs ana="KOAKUTEK_NJDOS">coacutac</rs> vcale
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="26">
                     <!-- <p> -->
                     <lb n="7"/><rs ana="KOCHAJUJ_NJTRES"><hi rend="large">C</hi>ochahuh</rs><rs ana="KOTZIBAJA_NJTRES">coꜩibaha</rs> roxle
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="27">
                     <!-- <p> -->
                     <lb n="8"/><rs ana="BELEJEB_KEJ_NJCUATRO"><hi rend="large">B</hi>eleheb quih</rs> vcah le chic
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="28">
                     <!-- <p> -->
                     <lb n="9"/><rs ana="KOTUJA_NJCINCO"><hi rend="large">C</hi>otuha</rs> ro le ahau
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="29">
                     <!-- <p> -->
                     <lb n="10"/><rs ana="BATZA_NJSEIS"><hi rend="large">B</hi>aꜩa</rs> chicut v vacle chic
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="30">
                     <!-- <p> -->
                     <lb n="11"/><rs ana="ISTAYUL_NJSIETE"><hi rend="large">Z</hi>tayul</rs> chicut v vcle ahau
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="31">
                     <!-- <p> -->
                     <lb n="12"/><rs ana="KOTUJA_NJOCHO"><hi rend="large">C</hi>otuha chivi</rs> v vahxac taz aha
                     <lb n="13" rend="indent"/>uarem.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="32">
                     <!-- <p> -->
                     <lb n="14"/><rs ana="BELEJEB_KEJ_NUEVE"><hi rend="large">B</hi>eleheb quih</rs> vbeleh taz
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="33">
                     <!-- <p> -->
                     <lb n="15"/><rs ana="KEEMA_NJDIEZ"><hi rend="large">Q</hi>uema chuqhax</rs> chic vlahu le
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="34">
                     <!-- <p> -->
                     <lb n="16"/><rs ana="AJAW_KOTUJA_NJONCE"><hi rend="large">A</hi>hau cotuha</rs> vhulahu le.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="35">
                     <!-- <p> -->
                     <lb n="17"/><rs ana="DON_CRISTÓBAL_NJONCE"><hi rend="large">D</hi>on christoual chuchaxic</rs> xa
                     <lb n="18" rend="indent"/>hauaric chuvach caxtilan vi<pc> –</pc>
                     <lb n="19" rend="indent"/>nac
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="36">
                     <!-- <p> -->
                     <lb n="20"/><rs ana="DON_PEDRO_DE_ROBLES_NJDOCE"><hi rend="large">z<choice><abbr>D</abbr><expan instant="false">Don</expan></choice></hi>. Pedro de robles</rs> <rs ana="AJAQ_QALEL_NJDOCE">ahau ꜫalel</rs>
                     <lb n="21"/>vacamic.
@@ -6035,48 +6035,48 @@
                     <lb n="22.3"/>chinim ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="37">
                     <!-- <p> -->
                     <lb n="23"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>1</num></hi></note><rs ana="AJAW_QALEL"><hi rend="large">A</hi>hau ꜫalel</rs> vnabe ahau chuva<pc> –</pc>
                     <lb n="24" rend="indent"/>ch <rs ana="NIJAIB">nihaibab</rs> hun vnim ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="38">
                     <!-- <p> -->
                     <lb n="25"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>2</num></hi></note><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>hau ah ꜩic vinac</rs> hun vnim ha
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="39">
                     <!-- <p> -->
                     <lb n="26"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>3</num></hi></note><rs ana="QALEL_KAMJA"><hi rend="large">A</hi>hau ꜫalel camha</rs> hun vnim ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="40">
                     <!-- <p> -->
                     <lb n="27"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>4</num></hi></note><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="41">
                     <!-- <p> -->
                     <lb n="28"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>5</num></hi></note><rs ana="UCHUCH_KAMJA"><hi rend="large">V</hi>chuch camha</rs> hun vnim ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="42">
                     <!-- <p> -->
                     <lb n="29"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>6</num></hi></note><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="43">
                     <!-- <p> -->
                     <lb n="30"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>7</num></hi></note><rs ana="NIM_CHOKOJ_NIJAIB"><hi rend="large">N</hi>im chocoh nihaib</rs> hun vnim ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="44">
                     <!-- <p> -->
                     <lb n="31"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>8</num></hi></note><rs ana="AJAW_AWILIX"><hi rend="large">A</hi>hau auilix</rs> hun vnim ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="45">
                     <!-- <p> -->
                     <lb n="32"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>9</num></hi></note><rs ana="YAKOLATAM"><hi rend="large">Y</hi>acolatam</rs> hun vnim ha.
                     <!-- </p> -->
@@ -6097,45 +6097,45 @@
                     <lb n="40"/>va vmam vcahau
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="46">
                     <!-- <p> -->
                     <lb n="41"/><rs ana="MAJUKUTAJ">Mahucutah</rs> nabe vinac<del instant="false" status="unremarkable"><hi rend="overstrike">cu</hi></del>
                     <lb n="42"/><rs ana="KOAJAW_AKDOS">Coahau</rs> vbi vcale ahau
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="47">
                     <!-- <p> -->
                     <lb n="43"/><rs ana="QAQ_LAQAM_AKTRES">Caelacan</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="48">
                     <!-- <p> -->
                     <lb n="44"/><rs ana="KOKOSOM_AKCUATRO">Cocozom</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="49">
                     <!-- <p> -->
                     <pb xml:id="xom-f56-s2"/>
                     <note place="margin-left" type="pagination" anchored="true"><num rend="large"><hi rend="handwriting;color:pencil">56</hi></num></note>
                     <lb n="1"/><rs ana="KOMAJKUN_AKCINCO">Comahcun</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="50">
                     <!-- <p> -->
                     <lb n="2"/><rs ana="WUQUB_AJ_AKSEIS">Vucubah</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="51">
                     <!-- <p> -->
                     <lb n="3"/><rs ana="KOKAMEL_AKSIETE">Cocamel</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="52">
                     <!-- <p> -->
                     <lb n="4"/><rs ana="KOYABAKOJ_AKOCHO">Coyabacoh</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="53">
                     <!-- <p> -->
                     <lb n="5"/><rs ana="WINAQ_BALAM_AKNUEVE">Vinac bam</rs>
                     <!-- </p> -->
@@ -6149,25 +6149,25 @@
                     <lb n="10"/>ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="54">
                     <!-- <p> -->
                     <lb n="11"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>h ꜩic vinac ahau</rs> vbi nabeahau
                     <lb n="12" rend="indent"/>hun vnim ha
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="55">
                     <!-- <p> -->
                     <lb n="13"/><rs ana="AJAW_LOLMET"><hi rend="large">L</hi>olmet ahau</rs> ucabahau hun
                     <lb n="14" rend="indent"/>vnimha
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="56">
                     <!-- <p> -->
                     <lb n="15"/><rs ana="AJAW_NIM_CHOKOJ"><hi rend="large">N</hi>im chocoh</rs> ahau roxahau hun
                     <lb n="16" rend="indent"/>unimha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="">
+                <div type="section" subtype="list" n="57">
                     <!-- <p> -->
                     <lb n="17"/><rs ana="AJAW_JAQAWITZ"><hi rend="large">H</hi>acaviꜩ</rs> cut vcah ahau hun
                     <lb n="18" rend="indent"/>vnim ha chicahibcut nimha
