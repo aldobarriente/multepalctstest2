@@ -24,7 +24,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <refsDecl n="capitains" xml:base="urn:cts:mayanLit:lit001.pw001.popolwuj-quc:">
+            <refsDecl n="CTS" xml:base="urn:cts:mayanLit:lit001.pw001.popolwuj-quc:">
                 <!-- <cRefPattern corresp="2" n="line"
                              matchPattern="(\w+).(\w+)"
                              replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:lb[@n='$2'])">
