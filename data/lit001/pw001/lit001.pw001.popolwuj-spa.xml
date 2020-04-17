@@ -5775,68 +5775,97 @@
                     <lb/>
                     <lb/>
                 </div>
+                <div type="section" subtype="list" n="1">
                     <!-- <p> -->
-                <div type="list" subtype="paragraph" n="1">
                     <lb n="39"/><rs ana="BALAM_KITZE"><hi rend="large">B</hi>alamquíꜩe</rs>. elprímero, ytronco de
                     <lb n="40"/>losde <rs ana="KAWEQ">cauíquíb</rs>
                     <!-- </p> -->
                 </div>
-                    <p>
+                <div type="section" subtype="list" n="2">
+                    <!-- <p> -->
                     <lb n="41"/><rs ana="KOQAWIB_KQDOS"><hi rend="large">C</hi>ocauíb</rs>; segunda generaçíon de <rs ana="BALAM_KITZE">balamq’ꜩe</rs>
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="3">
+                    <!-- <p> -->
                     <lb n="42"/><rs ana="BALAM_KONACHE_KQTRES"><hi rend="large">B</hi>alamconache</rs>. la terçera generaçíon
                     <lb/>
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="4">
+                    <!-- <p> -->
                     <lb n="43"/><rs ana="KOTUJA_KQCUATRO"><hi rend="large">C</hi>otuha</rs><rs ana="ISTAYUL_KQCUATRO">ztayub</rs>. quarta generaçíon
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="5">
+                    <!-- <p> -->
                     <lb n="44"/><rs ana="QUKUMATZ_KQCINCO"><hi rend="large">C</hi>ucumaꜩ</rs> <rs ana="KOTUJA_KQCINCO">cotuha</rs> el prímero de los portento<pc> –</pc>
                     <pb corresp="xom-f55-s2"/>
                     <lb n="1"/>sos. quínta generaçíon
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="6">
+                    <!-- <p> -->
                     <lb n="2"/><rs ana="TEPEPUL_KQSEIS"><hi rend="large">T</hi>epepul</rs> <rs ana="ISTAYUL_KQSEIS">ztayul</rs>. sexta generaçíon
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="7">
+                    <!-- <p> -->
                     <lb n="3"/><rs ana="KIKAB_KQSIETE"><hi rend="large">Q</hi>uícab</rs>, <rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>. septíma generaçíon
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="8">
+                    <!-- <p> -->
                     <lb n="4"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tambíen fue portentoso.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="9">
+                    <!-- <p> -->
                     <lb n="5"/><rs ana="TEPEPUL_KQOCHO"><hi rend="large">T</hi>epepul</rs> <rs ana="ISTAYUL_KQOCHO">xtayub</rs>. octaua generaçíon.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="10">
+                    <!-- <p> -->
                     <lb n="6"/><rs ana="TEKUM_KQNUEVE"><hi rend="large">T</hi>ecum</rs> <rs ana="TEPEPUL_KQNUEVE">tepepul</rs>. nona generaçíon.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="11">
+                    <!-- <p> -->
                     <lb n="7"/><rs ana="WAJXAQIB_KAM_KQDIEZ"><hi rend="large">V</hi>ahxaquí caam</rs> y <rs ana="KIKAB_KQDIEZ">quícab</rs>. deçíma gene<pc> –</pc>
                     <lb n="8"/>raçíon de los Reyes.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="12">
+                    <!-- <p> -->
                     <lb n="9"/><rs ana="WUQUB_NOJ_KQONCE"><hi rend="large">V</hi>ucub noh</rs>. y <rs ana="KUWATEPECH_KQONCE">cuuatepech</rs>. undeçíma
                     <lb n="10"/>generaçíon de los Reyes.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="13">
+                    <!-- <p> -->
                     <lb n="11"/><rs ana="OXIB_KEJ_KQDOCE"><hi rend="large">O</hi>xibqueh</rs>, <rs ana="BELEJEB_TZI_KQDOCE">beleheb <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>í</rs>. duodeçíma
                     <lb n="12"/>generaçíon de los Reyes.y estos reyna<pc> –</pc>
                     <lb n="13"/>ban qo. víno <rs ana="DONADIU">Aluarado</rs>. y fueron ahor<pc> –</pc>
                     <lb n="14"/>cados por los españoles.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="14">
+                    <!-- <p> -->
                     <lb n="15"/><rs ana="TEKUM_TRECE"><hi rend="large">T</hi>ecum</rs>, <rs ana="TEPEPUL_TRECE">tepepul</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tríbutaron a los espa<pc> –</pc>
                     <lb n="16"/>ñoles. y estos fueron la terçía deçíma
                     <lb n="17"/>generaçíon de los Reyes.
                     <lb/>
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="15">
+                    <!-- <p> -->
                     <lb n="18"/><rs ana="DON_JUAN_DE_ROJAS_KQCATORCE"><hi rend="large"><abbr>D.</abbr></hi> <abbr>Ju<hi rend="superscript">o.</hi></abbr> de Roxas</rs>, <rs ana="DON_JUAN_CORTÉS_KQCATORCE"><abbr>D.</abbr> <abbr>Ju<hi rend="superscript">o.</hi></abbr> cortes</rs>. la quarta
                     <lb n="19"/>deçíma generaçíon de los Reyes. y fue<pc> –</pc>
                     <lb n="20"/>ron híjos de <rs ana="TEKUM_TRECE">tecum</rs>, <rs ana="TEPEPUL_TRECE">Tepepul</rs>.
-                    </p>
-                    <p corresp="#p89">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="89">
+                    <!-- <p corresp="#p89"> -->
                     <lb n="21"/>y estas son las generaçíones del Reyno
                     <lb n="22"/>de los Reyes de trono, y casa de los de
                     <lb n="23"/>xauíquíb quiches. y agora díremos de<pc> –</pc>
@@ -5846,43 +5875,49 @@
                     <lb n="27"/><rs ana="SAQIK">chínamítales</rs> de <rs ana="KAWEQ">cauíquíb</rs>, y nueue ca<pc> –</pc>
                     <lb n="28"/>sas grandes. y este es el nombre de<pc> –</pc>
                     <lb n="29"/>cada vno de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de las casas grandes.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="16">
+                    <!-- <p> -->
                     <lb n="30"/><hi rend="large">A</hi>hau ahpop. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande
                     <lb n="31"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba, cuha.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="32"/><hi rend="large">A</hi>hau ahpop camha. y su casa se llamaba
                     <lb n="33"/><abbr>q’</abbr>íquínaha.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="34"/><rs ana="NIM_CHOKOJ_KAWEQ"><hi rend="large">N</hi>ím choch cauec</rs>. vna casa grande.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="35"/><hi rend="large">A</hi>hau ahtohíl. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="36"/><hi rend="large">A</hi>hau ah cucumaꜩ. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="37"/><hi rend="large">P</hi>opolvínac chítuí. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="38"/><rs ana="LOLMET_KEJNAY"><hi rend="large">L</hi>olmet quehnay</rs>. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="39"/><rs ana="POPOL_WINAQ_PA_JOM_TZALATZ"><hi rend="large">P</hi>opolvínac pahom. ꜩalaꜩ</rs> xcuxeba. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice>
                     <lb n="40"/>de vna casa grande.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="41"/><rs ana="YAKI_TEPEW"><hi rend="large">T</hi>epeu yaquí</rs>. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
-                    </p>
-                    <p corresp="#p90">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="90">
+                    <!-- <p corresp="#p90"> -->
                     <lb n="42"/>y estos son los nueue <rs ana="SAQIK">chínamítales</rs> de
                     <lb n="43"/><rs ana="KAWEQ">cauíquíb</rs>, y tenían muchos vasallos a su
                     <lb n="44"/>quenta.
-                    </p>
-                    <p corresp="#p91">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="91">
+                    <!-- <p corresp="#p91"> -->
                     <lb n="45"/>y aquí se ponen los de <rs ana="NIJAIB">níhaíbab</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tenían
                     <lb n="46"/>nueue casas y prímero díremos la de<corr><pc> –</pc></corr>
                     <pb corresp="xom-f56-s1"/>
@@ -5891,30 +5926,32 @@
                     </note>
                     <lb n="1"/>çendençía del Reyno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fue vno en tro
                     <lb n="2"/>co, antes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> vbíese luz, y sol.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="17">
+                    <!-- <p> -->
                     <lb n="3"/><rs ana="BALAM_AQAB"><hi rend="large">B</hi>alam acab</rs>. el primer abuelo, y pa<pc> –</pc>
                     <lb n="4"/>dre.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="5"/><rs ana="KOAKUL_NJDOS">Coacul</rs> <rs ana="KOAKUTEK_NJDOS">coacutac</rs> . segunda generaçíon.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="6"/><rs ana="KOCHAJUJ_NJTRES">cochahuh</rs> <rs ana="KOTZIBAJA_NJTRES">coꜩíbaha</rs>. tercera generaçíon.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="7"/><rs ana="BELEJEB_KEJ_NJCUATRO"><hi rend="large">B</hi>eleheb quih</rs>, la quarta generaçíon.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="8"/><rs ana="KOTUJA_NJCINCO">Cotuha</rs> la quínta generaçíon.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="9"/><rs ana="BATZA_NJSEIS">Baꜩa</rs>. la sexta generaçíon.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="10"/><rs ana="ISTAYUL_NJSIETE">ztayul</rs> la septíma generaçíon de Reyes.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="11"/><rs ana="KOTUJA_NJOCHO">Cotuha</rs>. la octaua generaçíon del Rey<pc> –</pc>
                     <lb n="12"/>no.
                     <lb n="13"/><rs ana="BELEJEB_KEJ_NJNUEVE">Beleheb quíh</rs>. la nona generaçíon.
@@ -5923,19 +5960,23 @@
                     <lb n="16"/><rs ana="DON_CRISTÓBAL_NJONCE">Don chrístoual</rs> se llamo el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyno
                     <lb n="17"/>en tíempo de los españoles.
                     <lb/>
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <lb n="18"/><rs ana="DON_PEDRO_DE_ROBLES_NJDOCE">Don <choice><abbr type="superscription">Po.</abbr><expan instant="false">Pedro</expan></choice> de Robles.</rs>
                     es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyn a<pc> –</pc>
                     <lb n="19"/>gora.
-                    </p>
-                    <p corresp="#p92">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="92">
+                    <!-- <p corresp="#p92"> -->
                     <lb n="20"/>y estos fueron todos los Reyes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> deçen<corr><pc> –</pc></corr>
                     <lb n="21"/>díeron de aquel <rs ana="AJAW_QALEL">Rey ꜫalel</rs>. y agora 
                     <lb n="22"/>díremos el <choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor</expan></choice> de cada vna de las
                     <lb n="23"/>grandes casas.
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="list" n="17">
+                    <!-- <p> -->
                     <lb n="24"/><rs ana="AJAW_QALEL"><hi rend="large">A</hi>hau ꜫalel</rs> el primer <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de los de <rs ana="NIJAIB">ní<pc> –</pc>
                     <lb n="25"/>haíbab</rs> Sor<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
                     <lb n="26"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>hau ah ꜩíc vínac</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
@@ -5946,16 +5987,20 @@
                     <lb n="31"/><rs ana="NIM_CHOKOJ_NIJAIB"><hi rend="large">N</hi>ímchocoh níhaíb</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
                     <lb n="32"/><rs ana="AJAW_AWILIX"><hi rend="large">A</hi>hau auílíx</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
                     <lb n="33"/><rs ana="YAKOLATAM"><hi rend="large">Y</hi>acolatam</rs>. <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
-                    </p>
-                    <p corresp="#p93">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="93">
+                    <!-- <p corresp="#p93"> -->
                     <lb n="34"/>y estas son las casa grandes de los
                     <lb n="35"/>de <rs ana="NIJAIB">níhaíbab</rs>. y así se llamaron los
                     <lb n="36"/>nueue chínamítales de <rs ana="NIJAIB">níhaíbab</rs>
                     <lb n="37"/>y tenía muchos chínamítales cada
                     <lb n="38"/>vno de los <choice><abbr type="superscription">SSes</abbr><expan instant="false">Señores</expan></choice><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> prímero díxímos
                     <lb n="39"/>sus nombres.
-                    </p>
-                    <p corresp="#p94">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="94">
+                    <!-- <p corresp="#p94"> -->
                     <lb n="40"/>y esta es la desçendençía de los de
                     <lb n="41"/><rs ana="AJAW_KICHE">ahau quiche</rs>. su primer abuelo, y <choice><abbr type="superscription">Pe.</abbr><expan instant="false">Padre</expan></choice>
                     <lb n="42"/><rs ana="MAJUKUTAJ">Mahucutah</rs>. el primer hombre.
@@ -5963,22 +6008,25 @@
                     <lb n="44"/><rs ana="QAQ_LAQAM_AKTRES">Caelacan</rs>. <num>3</num>
                     <lb n="45"/><rs ana="KOKOSOM_AKCUATRO">Cocozom</rs> . <num>4</num> .
                     <lb />
-                    </p>
-                    <p>
+                    <!-- </p> -->
+                    <!-- <p> -->
                     <pb corresp="xom-f56-s2"/>
                     <lb n="1"/><rs ana="KOMAJKUN_AKCINCO">comah cun</rs>. <num>5</num>
                     <lb n="2"/><rs ana="WUQUB_AJ_AKSEIS">Vucub ah</rs>. <num>6</num>
                     <lb n="3"/><rs ana="KOKAMEL_AKSIETE">Cocamel</rs>. <num>7.</num>
                     <lb n="4"/><rs ana="KOYABAKOJ_AKOCHO">Coyabacoh</rs>. <num>8</num>.
                     <lb n="5"/><rs ana="WINAQ_BALAM_AKNUEVE">Vínac bam</rs>. <num>9</num>.
-                    </p>
-                    <p corresp="#p95">
+                    <!-- </p> -->
+                </div>
+                <div type="section" subtype="paragraph" n="95">
+                    <!-- <p corresp="#p95"> -->
                     <lb n="6"/>y estos fueron los Reyes de los de <rs ana="AJAW_KICHE">ah<pc> –</pc>
                     <lb n="7"/>au quiche</rs>, y su desçendençías. y es<pc> –</pc>
                     <lb n="8"/>tos son los nombres delos<rs ana="CUATRO_CASAS_GRANDES"><choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> de las
                     <lb n="9"/>grandes casas, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> solo son quatro</rs>.
                     <lb/>
-                    </p>
+                    <!-- </p> -->
+                </div>
                     <p>
                     <lb n="10"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>h ꜩíc vínac</rs> el nombre del primer <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice>
                     <lb n="11"/>de vna grande casa.
@@ -5990,7 +6038,8 @@
                     <lb n="17"/>grande. queeran solo <rs ana="CUATRO_CASAS_GRANDES">quatro casas
                     <lb n="18"/>grandes</rs> de los de <rs ana="AJAW_KICHE">ahau quiche</rs>.
                     </p>
-                    <p corresp="#p96">
+                <div type="section" subtype="paragraph" n="96">
+                    <!-- <p corresp="#p96"> -->
                     <lb n="19"/>y estos eran los tres grandes combí<pc> –</pc>
                     <lb n="20"/>tes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran como padres por todos los
                     <lb n="21"/><choice><abbr type="superscription">SSes</abbr><expan instant="false">Señores</expan></choice> del quiche, y todos se juntaban
@@ -5998,7 +6047,8 @@
                     <lb n="23"/>todo lo mandaban, y dísponían, pe<pc> –</pc>
                     <lb n="24"/>queño, y grande, los tres juntos, o
                     <lb n="25"/>combítes.
-                    </p>
+                    <!-- </p> -->
+                </div>
                 <div type="section" subtype="paragraph" n="97">
                     <!-- <p corresp="#p97"> -->
                     <lb n="26"/>Grande Junta, y combíte delos de <rs ana="KAWEQ">ca
