@@ -3,27 +3,12 @@
   
   <ti:edition workUrn="urn:cts:mayanLit:lit001.pw001" urn="urn:cts:mayanLit:lit001.pw001.popolwuj-quc:">        
     <ti:label xml:lang="quc">Popol Vuh</ti:label>
-    <ti:description xml:lang="eng">Ximenez copy</ti:description>
+    <ti:description xml:lang="eng">Ximenez copy, K'iche' column</ti:description>
    </ti:edition>         
   
-</ti:work>
+    <ti:edition workUrn="urn:cts:mayanLit:lit001.pw001" urn="urn:cts:mayanLit:lit001.pw001.popolwuj-spa:">        
+      <ti:label xml:lang="quc">Popol Vuh</ti:label>
+      <ti:description xml:lang="eng">Ximenez copy, Castellano column</ti:description>
+   </ti:edition>    
 
-<!--
-<?xml-model href="../../../capitains.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<collection
-  xmlns="http://purl.org/capitains/ns/1.0#"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:cts="http://chs.harvard.edu/xmlns/cts">
-  <identifier>urn:cts:mayanLit:lit001.pw001</identifier>
-  <parent>urn:cts:mayanLit:lit001</parent>
-  <dc:title xml:lang="eng">Popol Wuj</dc:title>
-  <members>
-    <collection readable="true" path="./lit001.pw001.popolwuj-quc.xml">
-      <identifier>urn:cts:mayanLit:lit001.pw001.popolwuj-quc</identifier>
-      <parent>urn:cts:mayanLit:lit001.pw001</parent>
-      <dc:title xml:lang="eng">Popol Wuj</dc:title>
-      <dc:language>myn</dc:language>
-    </collection>
-  </members>
-</collection>
--->
+</ti:work>
