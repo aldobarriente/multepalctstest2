@@ -46,9 +46,9 @@
             </creation>
         </profileDesc>
     </teiHeader>
-    <text> 
-        <body>  
-            <div type="column" xml:lang="spa" n="urn:cts:mayanLit:lit001.pw001.popolwuj-spa">
+    <text n="urn:cts:mayanLit:lit001.pw001.popolwuj-spa:" > 
+        <body xml:lang="spa" n="urn:cts:mayanLit:lit001.pw001.popolwuj-spa:">  
+            <div type="column">
                 <div type="section" subtype="paragraph" n="1">
                     <!-- <p corresp="#p01">         -->
                     <pb corresp="xom-f01-s1"/>

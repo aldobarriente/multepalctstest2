@@ -36,7 +36,7 @@
             </refsDecl>
         </encodingDesc>
         <profileDesc>
-            <langUsage default="false">
+            <langUsage>
                 <language ident="quc">K'iche'</language>
             </langUsage>
             <creation>
@@ -46,9 +46,9 @@
             </creation>
         </profileDesc>
     </teiHeader>
-    <text xml:id="MS1515v2">
-        <body>
-            <div xml:lang="quc" type="column" n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc">
+    <text n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc:" xml:id="MS1515v2">
+        <body xml:lang="quc" n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc:">
+            <div type="column">
                 <div type="section" subtype="paragraph" n="1">
                   <lb n="1" /><hi rend="very-large">ARE V XE OHER</hi>
                   <lb n="2" rend="hanging"/>Ꜩih varal Quiche vbi.
